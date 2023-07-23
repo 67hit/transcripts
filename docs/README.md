@@ -1,0 +1,1 @@
+* [Friderikusz 14.](friderikusz14)
