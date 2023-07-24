@@ -7,23 +7,23 @@ Buda Pétert, és ezt most a nézőknek mondom, nemigen lennék képes bemutatni
 Te tulajdonképpen egész életedben tanultál, vagy közben azért jutott
 időd dolgozni is és tapasztalatokat szerezni a munka világából is?
 
-**BUDA:** Huzamosabb ideig dolgoztam különböző intézményeknél, elemzőként, meg terepen, kutatóként is, itthon, külföldön, úgyhogy nekem ez így képezett egy egészet. Tehát csak az elmélettel foglalkozni, csak tanulni az kevés lett volna, illetve csak mondjuk a terepen lenni szintén kevés lett volna.
+**BUDA PÉTER:** Huzamosabb ideig dolgoztam különböző intézményeknél, elemzőként, meg terepen, kutatóként is, itthon, külföldön, úgyhogy nekem ez így képezett egy egészet. Tehát csak az elmélettel foglalkozni, csak tanulni az kevés lett volna, illetve csak mondjuk a terepen lenni szintén kevés lett volna.
 
 **F:** Terepen lenni az mit jelent?
 
-**B:** Hát, hogy az ember elmegy azokba a régiókba, amelyekkel foglalkozik.
+**BP:** Hát, hogy az ember elmegy azokba a régiókba, amelyekkel foglalkozik.
 
 **F:** Azokba az országokba, azokba a területekre, amivel foglalkoztál?
 
-**B:** Igen, igen. Például mondjuk a migrációval kapcsolatban az ember, hogy úgy mondjam, leszáll oda, ahol ezek zajlanak, és próbál részévé válni ennek a jelenségnek.
+**BP:** Igen, igen. Például mondjuk a migrációval kapcsolatban az ember, hogy úgy mondjam, leszáll oda, ahol ezek zajlanak, és próbál részévé válni ennek a jelenségnek.
 
 **F:** Ez azt jelenti, hogy Görögországban, Törökországban legutóbb például, ott is kutattál?
 
-**B:** Igen, igen. Hát így lehet csak azt gondolom, hogy tényleg egy tárgyilagos, objektív képet alkotni, nem pusztán íróasztalnál, elkészített elemzések és képletek alapján, hanem a benyomások az impressziókat is beépítve.
+**BP:** Igen, igen. Hát így lehet csak azt gondolom, hogy tényleg egy tárgyilagos, objektív képet alkotni, nem pusztán íróasztalnál, elkészített elemzések és képletek alapján, hanem a benyomások az impressziókat is beépítve.
 
 **F:** Magyarázatot saját magadnak találtál-e arra vonatkozóan, hogy mi az oka ennek a bolyongó, nyughatatlan léleknek, ennek a mondjuk úgy, kalandkereső világpolgárságnak ha ez az egyáltalán?
 
-**B:** Hát azt kell mondjam, hogy gyerekkoromtól fogva nagyon érdekelt az, hogy honnan jövünk és hova megyünk, hogy most ilyen nagyon közhelyt puffogtassak, de csak így tudom nagyon egyszerűen összefoglalni. Mindennek a történelmi dimenziói is. És először érdekes módon én régésznek készültem, és aztán ez a múltnak a kutatása, ami egyébként azért volt érdekes számomra, mert a jelenre vonatkozó következtetéseket is le lehetett belőle vonni. Ez kicsit áthelyeződött a jelenbe és a jövőbe, és hát azokat a megoldásokat,
+**BP:** Hát azt kell mondjam, hogy gyerekkoromtól fogva nagyon érdekelt az, hogy honnan jövünk és hova megyünk, hogy most ilyen nagyon közhelyt puffogtassak, de csak így tudom nagyon egyszerűen összefoglalni. Mindennek a történelmi dimenziói is. És először érdekes módon én régésznek készültem, és aztán ez a múltnak a kutatása, ami egyébként azért volt érdekes számomra, mert a jelenre vonatkozó következtetéseket is le lehetett belőle vonni. Ez kicsit áthelyeződött a jelenbe és a jövőbe, és hát azokat a megoldásokat,
 azokat a felületeket, információkat,
 impulzusokat kerestem, amelyeknek
 a birtokában a lehető legteljesebb
@@ -46,7 +46,7 @@ hogy Magyarországtól eltávolodtál,
 és inkább a világ került
 fókuszod középpontjába?
 
-**B:** Van, van, igen,
+**BP:** Van, van, igen,
 több magyarázata is van.
 Egyrészt a közélettől távolodtam el,
 mert nem láttam igazából nagyon,
@@ -72,7 +72,7 @@ valójában milyen szakadék felé tart.
 **F:** Ezt most az országról mondod?
 Vagy globális értelemben?
 
-**B:** Ezt globálisan, globálisan abszolút,
+**BP:** Ezt globálisan, globálisan abszolút,
 gondolom. Azt gondolom,
 elsősorban emberek vagyunk,
 utána vagyunk egy adott
@@ -91,7 +91,7 @@ erre a nagy globális problémára...
 **F:** Jó, hát kitágult az érdeklődésed,
 van ilyen.
 
-**B:** Tág volt nekem akkor is igazából,
+**BP:** Tág volt nekem akkor is igazából,
 csak én előtte,
 mielőtt megismerkedtünk,
 én külföldön éltem egyébként.
@@ -125,7 +125,7 @@ mert olyan nagy a baj. Te,
 aki biztonságpolitikával foglalkozol,
 magad is így látod ezt?
 
-**B:** Hát a megoldással nem értek egyet,
+**BP:** Hát a megoldással nem értek egyet,
 mert a Marsot is tönkretennénk
 nagyon hamar, tehát ez csak
 a probléma elodázása lenne.
@@ -154,7 +154,7 @@ a tapasztalatom, hogy a szűk
 látókörű és önérdekek által vezérelt
 embereket gondolkodásra késztessék?
 
-**B:** Hát egyiket se javasolnám,
+**BP:** Hát egyiket se javasolnám,
 egyik szélsőségességet sem, viszont
 a megoldásra sem tudnék választ adni.
 Azt tudom mondani, hogy a megoldáshoz
@@ -176,7 +176,7 @@ illetve a családunkkal tervezünk.
 hogy én egy kisember vagyok,
 nekem erre ráhatásom nincsen.
 
-**B:** Abból sem teljesen értek egyet,
+**BP:** Abból sem teljesen értek egyet,
 hogy nincsen ráhatásunk.
 Mindenki valamilyen szerepet játszik
 ezeknek az okoknak az előidézésében,
@@ -201,7 +201,7 @@ Hogy látod,
 mely típusú katasztrófa fenyegeti
 leginkább az emberiséget 2021 táján?
 
-**B:** Hát leginkább mindezeknek az elegye.
+**BP:** Hát leginkább mindezeknek az elegye.
 Ez igazából a legnagyobb probléma,
 hogy eljutottunk odáig.
 Nyilván részben a
@@ -222,7 +222,7 @@ vagy egymástól függetlenül,
 csak menet közben aztán összeolvadnak
 egy globális konfliktus halmazzá?
 
-**B:** Is is. Hát most csak egy
+**BP:** Is is. Hát most csak egy
 nagyon gyors példa erre például a
 sarkkörnek az olvadása, ami ugye
 a klímakatasztrófának a következménye,
@@ -241,7 +241,7 @@ csatározásnak az eredményeként.
 
 **F:** Kié legyen az Északi-sark?
 
-**B:** Kié legyen az Északi-sark,
+**BP:** Kié legyen az Északi-sark,
 a benne lévő ásványkincsek,
 illetve a hajózási útvonalak,
 illetve az a természetes gát,
@@ -260,7 +260,7 @@ meg tudják egymást közelíteni.
 jobban fenyegetik a világot,
 mint korábban bármikor?
 
-**B:** Abszolút, ez nem kérdés.
+**BP:** Abszolút, ez nem kérdés.
 Nyilván ez a klímaváltozás
 az egyik leg-, hogy is mondjam,
 közhelyesebb most már,
@@ -301,7 +301,7 @@ előző két világháborút.
 **F:** Technológiai fejlődés ugye?
 Mindaz ami már a rendelkezésünkre áll.
 
-**B:** Így van, igen, igen.
+**BP:** Így van, igen, igen.
 
 **F:** Na, akkor én a természeti
 katasztrófákkal kezdeném,
@@ -322,7 +322,7 @@ Vagy ez most ilyen rendkívüli
 periódus, és majd minden visszaáll
 idővel a régi megszokott rendjébe?
 
-**B:** Hát ehhez ugye meg
+**BP:** Hát ehhez ugye meg
 kell nézni az adatokat.
 Egy eseményből nem érdemes kiindulni,
 de ugye az adatok azt mutatják,
@@ -380,7 +380,7 @@ amely már az ötvenes évekre,
 most már a harmincas éveknél járunk,
 tehát egyre közelebb húzzák.
 
-**B:** Igen, ez nagyrészt abból fakad,
+**BP:** Igen, ez nagyrészt abból fakad,
 hogy nagyon nehezen modellezhető
 maga a klíma, a föld klímája.
 Szerintem napi tapasztalatunk,
@@ -425,7 +425,7 @@ nagymértékben összefüggenek.
 Milyen értelemben? Vagy hogy
 függnek ezek egymással össze?
 
-**B:** Mondok erre egy nagyon gyors példát,
+**BP:** Mondok erre egy nagyon gyors példát,
 mondjuk Szíriának az esetét.
 Ugye a szíriai polgárháború, ha
 lehet ilyen eufemisztikusan fogalmazni
@@ -444,7 +444,7 @@ ahol nem tudtak megélni az emberek.
 
 **F:** Nem tudták megvenni a gabonát?
 
-**B:** Így van, és kezdtek a
+**BP:** Így van, és kezdtek a
 városokba bemenni, ott ugye nem
 volt megfelelő az életszínvonal,
 óriási tömegek számára, stb.
@@ -473,11 +473,11 @@ konfliktust váltott ki.
 **F:** Ez főleg Oroszország és
 az Egyesült Államok között.
 
-**B:** És Kína.
+**BP:** És Kína.
 
 **F:** És Kína, mint harmadik fél, igen.
 
-**B:** Így van. És akkor nem beszéltünk
+**BP:** Így van. És akkor nem beszéltünk
 még ugye a partvidékeknek a tenger
 által való ellepéséről, amelyek
 elindítanak óriási tömegeket már.
@@ -488,7 +488,7 @@ kerülhet nagyon gyorsan...
 megemelkedik a vízszint,
 és elönti a part menti vidékeket.
 
-**B:** Pontosan és attól függően,
+**BP:** Pontosan és attól függően,
 hogy milyen gyorsan zajlanak
 le ezek a folyamatok.
 Egészen belátható évtizedeken belül
@@ -560,7 +560,7 @@ katasztrófák pusztítóbbak lesznek,
 vagy még inkább elkerülhetetlenek
 lesznek, nemde?
 
-**B:** Hát igen,
+**BP:** Hát igen,
 óriási nagy dilemma ebben az,
 hogy a klímaváltozásnak a hatásai azok
 egyenlőtlenül oszlanak el a glóbuszon,
@@ -594,7 +594,7 @@ hogy az összeomlás be fog következni?
 Csak legfeljebb az időzítését
 nem tudják? Precizen?
 
-**B:** Igen, van egy nagyon komoly
+**BP:** Igen, van egy nagyon komoly
 irányzat, amely azt mondja,
 hogy ez így van pontosan, tehát hogy
 illúziókat nem érdemes kergetni,
@@ -623,3372 +623,2063 @@ néhány hónap alatt korrigálnák,
 korrigálni tudnák magukat.
 
 **F:** De mondjuk az adott helyzetben
-
 is lehetséges lenne gyorsan
 reagálniuk kormányoknak,
-
 vagy a gazdaság meghatározó
 szereplőinek egy olyan világban,
-
 amely a folyamatos gyarapodásra,
 meg növekedésre van beállítva,
-
 amelyben a vállalatok azon
 mérik a sikerüket évről évre,
-
 hogy hogyan tudják növelni a
 nyereségüket, hány milliárd,
-
 vagy hány száz millió dollárral,
 és ugye amely világban olvasom,
-
 meg hát ez már tudott tény,
 hogy összvagyonnak csak nem a felét az
-
 emberiség egy százaléka birtokolja?
 Hogyan lehet így eljutni oda,
-
 hogy ne a pénzre,
 hanem a földre figyeljünk?
 
-- Valóban megdöbbentő azt látni,
+**BP:** Valóban megdöbbentő azt látni,
 hogy egyfajta kollektív gondolkodásra
-
 egyszerűen nem képes az emberiség,
 vagy már csak akkor képes,
-
 amikor már túl késő.
-
 Számomra is igazából őszintén szólva
 érthetetlenek azok az elképesztő
-
 vagyonok, meg azok a törekvések
 egyébként országok részéről is,
-
 hogy még nagyobb területet,
 még nagyobb vagyont, satöbbi, satöbbi,
-
 miközben beleroggyan mindenki,
 és bőven elég lenne az is, ami van.
-
 És azt látja az ember,
 hogy ilyen magukba zárt politikai
-
 vezetők bénázzák el,
 már bocsánat a földnek a jövőjét,
-
 nagyon sokan meg hát tapsolnak nekik,
 mert az örökkévalóság ígéretét
-
 nyújtják bizonyos vagy anyagi,
 vagy jóléti,
-
 vagy ideológiai ígéretekkel.
-- Amit megpendítettél az előbb,
 
+**F:** Amit megpendítettél az előbb,
 hogy az úgy lesz,
 hogy a klímaváltozás hatásai bizonyos
-
 területeket jobban fognak érinteni,
 bizonyos területeket pedig kevésbé.
-
 És akiket kevésbé,
 azok majd mondjuk a tévében,
-
 vagy a tévéből nézik, amint mondjuk
 Hollandia nagy része víz alá kerül
-
 a tengerszint emelkedése miatt,
-vagy Dél-európa elsivatagosodik,
-
+vagy Dél-Európa elsivatagosodik,
 és éhezni meg szomjazni fognak ott
 esetleg milliók. Nem úgy van az,
-
 hogy amíg mindenki nincs bajban,
 addig nincs közös cselekvés?
 
-- De, alapvetően így van,
+**F:** De, alapvetően így van,
 abszolút. A kérdés az,
-
 hogy amikor már mindenki bajban van,
-
 akkor vajon nem késett-e el egy
 esetleges közös cselekvés, illetve
-
 amikor már mindenki bajban van,
 az nem vált-e ki egy olyan
-
 pánikreakciót az emberekből,
 az emberiségből,
-
 ami viszont szükségszerűen
 és törvényszerűen félreviszi
-
 ezt a nagy közös kísérletet.
 Elég, ha csak belegondolunk mondjuk a
-
 középkori nagy fekete haláljárványban,
 amiben a korabeli Európának
-
 közel fele elhalálozott, tehát
 egy elképesztő járványról van szó,
-
 és nagyon gyorsan megtalálták
 a felelősöket az eretnekek és
-
 a zsidóknak a személyében,
 akik ezért úgymond felelősek voltak.
 
-Na most, ha a menekültkérdést
-említetted, hogy a menekültek
 
+**F:** Na most, ha a menekültkérdést
+említetted, hogy a menekültek
 többsége nem életszínvonal növesztés
 céljából hagyta el hazáját,
-
 hanem például Szíriában a középosztály
 jelentős része egyszerű szükségletből,
-
 mert képtelen volt a továbbiakban
 ott megélni, és nem pedig azért,
-
 hogy növesszen az egzisztenciáján.
 Van-e olyan forgatókönyv,
-
 vagy olyan megoldási ötlet,
 amely a menekülthullám
-
 visszaesését eredményezheti? Tehát,
 hogy hogyan lehetne ennek elejét
-
 venni, vagy legalábbis hogyan lehetne
 ennek a fokozódását meggátolni?
 
-- Szerintem tökéletes megoldás
+**BP:** Szerintem tökéletes megoldás
 nincsen. Vannak a történelemnek
-
 olyan tektonikus mozgásai, amelyeket
 nem lehet mérnöki eszközökkel,
-
 vagy az erőszaknak az eszközeivel,
 vagy a kettőnek a vegyítésével
-
 tökéletesen megoldani. Nagyon
 jó példa Afganisztánnak az esete,
-
 ahonnan most kivonult az Egyesült
 Államok, és kezdődik minden elölről.
-
 Ugye már menekülnek az emberek
 a tálibok elől, rengeteg
-
 afgán menekülttel találkoztam,
 akiknél persze, hát nyilván
-
 jobb azért Németországban élni,
 mint Afganisztánban,
-
 mármint gazdasági,
 pénzügyi szempontból is. De hát
-
 azért ha én ott lenne a családom,
 akkor én is eljönnék az egész biztos,
-
 mert most a szomszédot robbantották
 föl, most lehet, hogy csak a szomszéd
-
 településen robbantottak föl valakit,
 de az ember azért így nehezen tud
-
 tervezni. És hát azt láthatjuk,
 hogy egy 20 éves,
-
 a világ első számú szuperhatalma
 által 20 évig fenntartott katonai
-
 és egyéb fejlesztési mindenféle
 expedíció nyomán gyakorlatilag
-
 kezdünk visszalépni az zéró kőre,
 Afganisztánban.
 
-- Ebben mi volt egyébként
+**F:** Ebben mi volt egyébként
 az amerikai megfontolás?
 
-- A kivonulás?
-- Igen. - Kérdés,
+**BP:** A kivonulás?
 
+**F:** Igen.
+
+**BP:** Kérdés,
 hogy mik a valós megfontolások és mik
 a nyilvánosságra hozott megfontolások.
-
 Nyilván benne van az, hogy húsz év
-
 katonai ott tartózkodás az rengetegbe
 kerül és az Egyesült Államoknak
-
 pillanatnyilag sokkal komolyabb
 katonai kihívásokra kell felkészülnie,
-
 nevezetesen a kínai és az
 orosz lehetséges konfrontációra
-
 való felkészülés az iszonyatos
 erőforrásokat fog igényelni,
-
 és egyre több katonai szakértő,
 védelmi szakértő figyelmeztet erre,
-
 hogy az Egyesült Államoknak
 fel kell tudnia készülni.
 
-- Ennyire forró ez a helyzet?
-- Igen. - Az Egyesült Államok,
+**F:** Ennyire forró ez a helyzet?
 
+**BP:** Igen.
+
+**F:** Az Egyesült Államok,
 Kína, illetve az Egyesült
 Államok és Oroszország között?
 
-- Pontosan, egyrészt ennyire forró,
+**BP:** Pontosan, egyrészt ennyire forró,
 másrészt pedig ennyire forró lesz,
-
 hogyha az Egyesült Államok
 nem lesz képes elrettenteni
-
 attól ezt a két nagyhatalmat,
 hogy bármilyen fajta kooperált, vagy
-
 koordinált támadásban gondolkodjanak.
 Tehát ez egy mindenképpen nagyon
-
 fontos szempont volt az Afganisztánból
 való kivonulás kapcsán.
-
 Nyilván volt egyfajta hamis remény
 is azzal kapcsolatban, hogy esetleg
-
 már valamit ott sikerült elindítani,
 de láthatjuk, hogy azért ezek
-
 nem így működnek ezek a dolgok.
 Úgyhogy most az eredeti kérdésre
-
 visszatérve én avval teljes
 mértékben egyetértek, amit lehet meg
-
 kell tenni azokon a területeken,
 ahonnan indulnak a menekültek.
-
 Abban kételkedem erősen,
 hogy ezek a lépések,
-
 ezek nagyon komoly áttörést tudnak
 ezeken a területeken elérni.
-
 Lásd egyébként Afrikát
-is a Közel-kelet mellett,
-
+is a Közel-Kelet mellett,
 ahonnan még sokkal több ember
 tud megindulni adott esetben.
-
 Ez nem azt jelenti, hogy tegyük
 fel a kezünket defetista módon,
-
 és akkor majd lesz.
-- Hát illetve,
 
+**F:** Hát illetve,
 hogy a politika, például a mi
 politikánk is arra hajlik,
-
 hogy ott oldjuk meg a problémát,
 ahol a probléma előáll.
-
 Tehát, hogy ne engedjük a vándorlást,
 hanem ott helyben oldjuk meg,
-
 más kérdés, hogy hogyan, mivel.
-- Így van, persze,
 
+**BP:**  Így van, persze,
 nyilván ezt így ki lehet jelenteni,
 másfelől pedig azt láthatjuk,
-
 hogy a világnak a nagyhatalmai,
-az Egyesült Államok, Nagy-britannia,
-
+az Egyesült Államok, Nagy-Britannia,
 Franciaország elsősorban Afrikában,
 azért elég hosszú évek óta van jelen
-
 és próbálkozik kezelni az ottani
 legforróbb problémákat. Nyilvánvalóan,
-
 ha túl mélyen belemerülnek,
 akkor meg jön a vád, hogy na,
-
 mit keres ott Amerika,
 meg miért újra gyarmatosítás,
-
 és a többi, és a többi.
 Tehát, hogy azért ezt is be kell
-
 kalkulálni a nyugati országoknak,
 hogy nehéz azért egyensúlyozni.
 
 Ezért nagyon fontos egyébként
 a történelmi perspektíva.
-
 Tehát volt ilyen a világtörténelemben.
 A népvándorlás egy kicsit erős példa,
-
 mert ott nem fegyvertelen emberek,
 hanem gyakorlatilag kvázi
-
 országok jöttek, tehát fegyveres
 hadseregek érkeztek Európába.
-
 Tehát van ilyen, amikor elindítanak
 akár a klímaváltozásból fakadó,
-
 vagy nagy járványokból fakadó
 lökéshullámok elindítanak népeket.
-
 Róma is körbevette magát a 200-as
 években először történelmében
-
 egy óriási nagy városfallal,
 jelenleg is megvannak ennek a részei,
-
 hát tudjuk, hogy mi lett a sorsa.
-
 Vannak olyan mozgások, amiket nem
 lehet erőszakkal feltartóztatni,
-
 ezért elébe kéne menni,
 és azokat az adaptációs
-
 készségeket kéne fejlesztenünk,
 mint európai társadalom is,
-
 amely a legkisebb zökkenővel
 tudná ezt az akadályt venni,
-
 és azokkal az illúziókkal leszámolni,
 hogy meg tudjuk oldani a történelmet.
 
-- De akkor azt mondod, hogy ezek az
+**F:** De akkor azt mondod, hogy ezek az
 országok és ezek a térségek továbbra
-
 is részben kihelyezett háborúk,
 tehát mondjuk úgy, nagyhatalmak
-
 megütközésének terepei lesznek,
 mint például Szíria, ahogy utaltál rá,
-
 mint például Afganisztán, ahogy azt
 tudjuk a közelmúlt történelméből.
 
-- Igen, hát semmi nem mutat abba az
+**BP:** Igen, hát semmi nem mutat abba az
 irányba és ezt nem csak én mondom,
-
 hanem tényleg a világ vezető
 elemzői is, hogy ebben a két
-
 térségben bármilyen fajta előrelépés
 történt volna perspektivikusan.
-
 Egyébként, hogyha megkérdezem,
 nekem azok az ismerőseim,
-
 akik elmenekültek, ők ab ovo,
 kizárták, hogy visszamennének oda,
-
 mert vége van,
 azt mondták az országnak.
 
-- Szíriáról mondod ezt?
-- Igen, ezt most konkrétan Szíriáról.
+**F:** Szíriáról mondod ezt?
 
+**BP:** Igen, ezt most konkrétan Szíriáról.
 Értelmes, értelmiségi
 emberekről van szó. Lehet,
-
 hogy majd 80 év múlva lesz valami,
 de az ember nem kötelezhető arra,
-
 hogy feltegye az életét arra,
 hogy romok között szaladgáljon
-
 és próbálkozzon.
 Ott is óriási nagyhatalmi érdekek
-
 csattannak össze, az orosz jelenlét,
 az amerikai jelenlét a közelben,
-
 ez önmagában egy nagyon nagy
 mértékben, hogy úgy mondjam,
-
 színezi ezt a konfliktust.
-- Egyébként mondd, muszáj,
 
+**F:** Egyébként mondd, muszáj,
 hogy ennyire embertelen
 legyen a világ? Most tudom,
-
 ez egy ilyen naiv megközelítés,
 de mégiscsak ilyen gyerekként
-
 kérdezem, hogy kikötők, bázisok,
 befolyási övezetek megszerzéséért
-
 simán feláldozzák emberek százezreit.
-
 Ez sohasem fog megváltozni
 a világpolitikában?
 
-- A történelmi analógiáink azért
+**BP:** A történelmi analógiáink azért
 azt mutatják, hogy olyanra nem volt
-
 még példa az emberiség történelmében,
 hogy itt az emberek rájöttek
-
 volna globálisan, hogy jaj,
 hát szociopaták vagyunk,
-
 és miért kell ezt csinálni,
 miért kell egymást üldözgetni,
-
 meg ütni-verni, próbáljunk összefogni,
 és próbáljuk egymást segíteni.
-
 Tehát ilyen így a
 világtörténelemben egy ilyen
-
 modellt nem tudnék felmutatni.
 Most ez lehet, hogy egy kicsit ilyen,
-
 szinte ügyefogyottan hangzik,
 annyira egyszerű.
 
-- Mint amilyen naiv volt a kérdés is.
+**F:** Mint amilyen naiv volt a kérdés is.
 
-- Nem ahhoz próbáltam alkalmazkodni,
+**BP:** Nem ahhoz próbáltam alkalmazkodni,
 de tényleg próbáltam volna
-
 nagyon leegyszerűsíteni,
 mert voltaképpen ez ennyire egyszerű,
-
 hogy nagyon sok esetben,
 ha végignézzük a történelemnek az
-
 úgynevezett nagy komoly szereplőit,
 a nagy államférfiakat, uralkodókat,
-
 királyokat, akkor azt látjuk,
 hogy szociopaták, akik folyamatosan
-
 hódítani és mészárolni akarnak,
 hogy minél több legyen nekik.
-
 Nem hangzik túl tudományosan,
 de voltaképpen tényszerű,
-
-igen, voltaképpen népszerű.
+igen, voltaképpen tényszerű.
 Persze tudják ők azzal magyarázni,
-
 hogy ők egy ilyen proaktív
 expanzionizmust folytattak annak
-
 érdekében, hogy aztán minél távolabb
 tolják a központtól a perifériát,
-
 hogy ha jönnek majd a hódítók, akkor
 minél messzebb tudják őket tartani.
-
 Ez lehet egy magyarázat.
 Pontosan tudjuk azért,
-
 ha most végigmegyünk a nagy-nagy
 szereplői a történelemnek,
-
 hogy a vagyonszerzés,
 meg a befolyásszerzés
-
 azért az volt a fő motívum.
-- Még mindig a menekültekről
 
+**F:** Még mindig a menekültekről
 érdeklődve a befogadó országok
 társadalmaiban a menekültek
-
 érkezése valóban gyökeres
 változást eredményezhet?
 
-- Hát függően az érkezők számától és
+**BP:** Hát függően az érkezők számától és
 az érkezés időbeli dinamikájától igen.
-
 Az egész biztos, és ezt nem szabad
 szerintem szőnyeg alá söpörni,
-
 hogy egy mondjuk egy zártabb
 német kisvárosban nagyobb számú
-
 más kultúrájú menekült érkezik,
 akkor az mindenképpen megingatja
-
 a kulturális biztonságérzetét az
 embernek, nem feltétlenül azért,
-
 mert szélsőjobboldali meg náci,
 hanem azért, mert neki kialakult
-
 már a maga kis kulturális rendszere,
 és hirtelen abba odaérkeznek emberek,
-
 akik azt a nyelvet nem értik,
 már konkrétan magát a nyelvet sem,
-
 meg abban a kultúrában sem
 mozognak otthonosan.
-
 Ez nem kéne, hogy egyébként
 szélsőséges jelenséggé eszkalálódjon.
-
 Erről beszéltem többek között,
 amikor az adaptációs készségnek
-
 a fejlesztésére utaltam,
 hogy erre föl lehet készíteni
-
 részben a befogadó társadalmat,
 másik részt pedig az érkezőket.
-
 Hogy itt egy találkozó zajlik,
 kultúráknak a találkozása,
-
 és tudomásul kell venni,
 hogy ez egy érzékeny folyamat.
 
-- Például az Egyesült
+**F:** Például az Egyesült
 Államokban jelentős társadalmi,
-
 kulturális változás következett be
-
 a latin-amerikaiak, a kínaiak,
 az európaiak tömeges megjelenésével
-
 évekkel, vagy sok évvel ezelőtt?
-- Most leginkább
 
+**BP:** Most leginkább
 azért a latin-amerikai
 menekülteknek az érkezése,
-
 ugye az a legnagyobb kulturális,
 hogy úgy mondjam, sokk az Egyesült
-
 Államokban bizonyos területeken.
 Természetesen nyilván,
-
 mert nagyon sok minden, tehát
 másfajta mentalitást hoznak magukkal,
-
 másfajta vallást is hoznak magukkal.
 Ugye a latin-amerikai
-
 menekülteknek egy jó része katolikus,
 vagy evangéliumi keresztény most már,
-
 de nagyon jellemző rájuk a
 transzcendensbe vetett hit,
-
 a csodáknak a
 tekintélyének az elfogadása,
-
 szemben a már szekularizálódottabb
 vagy éppenséggel puritán,
-
 protestáns amerikai társadalommal.
 A kommunikációnak a hiánya,
-
 annak az ellehetetlenülése a nyelvi
 különbségek miatt ez természetes, hogy
-
 eredményez egyfajta kulturális sokkot.
 De ez mindenképpen probléma,
-
 mindenképpen megoldandó probléma,
 nagyon sokat kell rajta dolgozni,
-
 és nem megy zökkenők nélkül,
 ez egész biztos,
-
 viszont az a lónak a másik oldala,
 hogyha erre rájátszunk,
-
 mondjuk politikai érdekből.
 
-- Elkezdjük hergelni az
-
+**F:** Elkezdjük hergelni az
 anyaországbelieket, azt mondod, ugye?
-- Így van. Igen igen igen.
 
-- Ühüm.
+**BP:** Így van. Igen igen igen.
+
+**F:** Ühüm.
 Na most van ezeknek a kérdéseknek ezek
-
 szerint egy elvi szintű megoldása.
 Olyasmire gondolok,
-
 hogy mondjuk kimondja-e,
 vagy kérdezem inkább,
-
 kimondhatja-e egy európai állam,
 hogy aki az ő területére érkezik
-
 és itt akar élni, annak be kell
 tartani bizonyos emberiességi vagy
-
 emberiségi normákat az odamenekültek
 saját vallási normáival szemben.
-
 Tehát például nem csonkíthatja
 meg a kislányát, azaz nem követhet
-
 el ilyen excíziót például.
-- Ez az utóbbi esetben kapcsolatban
 
+**BP:** Ez az utóbbi esetben kapcsolatban
 abszolút azt mondom, hogy igen,
 és nagyon sok esetben abszolút
-
 azt mondom erre, hogy igen.
 Eleve az Európai Unió is
-
 egy normarendszerre épül,
 egy étoszra épül,
-
 és arra senki nem kötelezhető,
 hogy olyan szokásokat fogadjon be,
-
 amely ennek az étosznak, ennek a
 normarendszernek nem felel meg,
-
 és alapvető emberi jogokat sért.
 Tehát ez azt gondolom,
-
 mindenkinek a joga azt megszabni,
 hogy a lakásába kit enged be,
-
 tehát evvel maximálisan egyetértek.
 Úgyhogy hát ez is annak a fajta
-
 folyamatnak a része kell hogy legyen,
 amire az előbb utaltam, hogy nem
-
 pusztán a befogadó társadalmat kell,
 hogy úgy mondjam edukálni,
-
 hanem az érkezőket is,
 hogy itt nagyjából mi vár rájuk,
-
 és hogy mik azok az egyébként tág
 keretek. Európában az a szerencse,
-
 hogy a szekuláris államnak a
 koncepciója az arra alapul,
-
 hogy pusztán abba szól bele az állam,
 hogy ne essünk egymásnak
-
 világnézeti okok miatt.
 Tehát azokat a kereteket biztosítja,
-
 amelyeken belül az ember a
 saját világnézeti meggyőződését
-
 gyakorolhatja mindaddig,
 amíg ez a világnézeti meggyőződés
-
 más embernek a testi épségét vagy
 tulajdonát nem veszélyezteti.
-
 Úgyhogy nagyon sokan egyébként
-
 algériaiakkal, afganisztáni
 menekültekkel beszélgettem,
-
 akik kifejezetten mondjuk az iszlámnak
 egy radikális verziója elől jönnek el.
-
 Nekik ebből elég,
 és ők egy szabadabb...
 
-- Tehát ő maguk is kritika
+**F:** Tehát ő maguk is kritika
 tárgyává teszik azt,
-
 amit egyébként mi hajlamosak vagyunk
 Európából egy kalap alá venni.
 
-- Így van, egy kalap alá.
+**BP:** Így van, egy kalap alá.
 Muszlimként jön át, csak azt mondja,
-
 hogy nem azt, azt nem kéri.
 Ő maga szeretné ezt megélni úgy,
-
 ahogy ő ezt elgondolja,
 és nem kívánná azt,
-
 hogy az állam a politika
 eszközével és a jog eszközével
-
 kényszerítse az ő gondolkodását,
 vagy az ő világnézetét egy bizonyos
-
 adott muszlim interpretáció irányába.
-- Egyébként Németországban láttam
 
+**F:** Egyébként Németországban láttam
 erre remek példát a német televízió,
 hogy mire lehet használni egy
-
 tömegtájékoztatási eszközt,
 hogy amikor különösen nagy számban
-
 zúdultak be a menekültek, akiket én
 nem szeretek migránsoknak nevezni,
-
 szóval jöttek be a menekültek,
 és a német televízió közszolgálati
-
 televízió rendszeresen megszakítva az
 adását, edukálta, tanítgatta őket.
-
 Tehát elmondták, de nem többen,
 mint öt percben leegyszerűsítve,
-
 hogy a német alkotmány mit enged meg
 önöknek és mit nem, és az ő nyelvükön,
-
 tehát nem német anyanyelven,
 hanem az ő saját anyanyelvükön,
-
 aztán az iskolarendszerről tartottak.
 Ezek ilyen három-négy perces,
-
 két műsorszám, egy film és a
 híradó között, kifejezetten ilyen,
-
 tehát egy felnőtt társadalom,
 láttam akkor erre a példát,
-
 így jár el, így fogadja be.
 Tart egyfajta, vagy tesz egyfajta
-
-cenzúrát, tehát azt mondja,
+cezúrát, tehát azt mondja,
 hogy ti idegenek vagytok,
-
 szívesen fogadunk benneteket,
 de a normáinkkal azonosulni kell,
-
 mert egyébként nem tudunk
 együttműködni, vagy együtt élni.
 
-- Igen, ez így lenne a normális.
+**BP:** Igen, ez így lenne a normális.
 A helyzet akkor válik problémássá,
-
 amikor hirtelen valami nagy
 katasztrófa eredményeképpen hirtelen
-
 érkezik nagyon sok ember, mert nagyon
 nehéz ezt tényleg menedzselni.
-
 Borzasztó illúzió lenne,
 ami ránk fog szakadni,
-
 hogy a menekültkérdés az
 egy elintézhető, elintézett,
-
 illetve kényszereszközökkel
 elintézhető kérdés,
-
 nem lehet ezt elintézni.
 Nem most az egy-két évből induljunk
-
 ki, néhány éves, akár perspektívában
 is számíthatunk, vagy akkora,
-
 mint a 2015-ös vagy annál sokkal
 nagyobb volumenű menekültáradatra.
-
 Ezekre érdemes lenne előre
 felkészülni, akárcsak a
-
 klímaváltozás következményeire is,
 mert amikor jönnek,
-
 akkor már késő lesz.
 A fokozatosságnak a mechanizmusait,
-
 ha lehet, akkor kialakítani.
-- Milyen területen,
 
+**F:** Milyen területen,
 vagy milyen tekintetben?
-- A kibocsátó államokkal való
 
+**BP:** A kibocsátó államokkal való
 tárgyalások révén részint,
 hogy ezek a fajta menekült lökések
-
 ezek ne azonnal érkezzenek el hozzánk,
 legyen idő a felkészülésre.
-
 A befogadó társadalomnak ugye
 edukálása. Tökéletesen ezt a
-
 kérdést nem lehet megoldani.
 Ebben biztosak lehetünk.
-
 Vannak olyan problémák, amelyekkel
 kapcsolatban nem szabad a tökéletesség
-
 illúzióját ápolnunk magunkban,
 mert annál nagyobb lesz a csalódás,
-
 és a csalódást bizonyos politikai
 erők kihasználhatják nagyon
-
 komoly válságoknak a gerjesztésére.
-- Beszéljünk az iszlám
 
+**F:** Beszéljünk az iszlám
 terrorista radikalizmusról.
 Ugye Bin Laden kiiktatásával,
-
-az al-kaida mondjuk így
+az al-Kaida mondjuk így
 meggyengítésével és az Iszlám Állam
-
 meggyengítésével eltűnt-e az iszlám
 terrorista radikalizmus az életünkből,
-
 legalábbis az európai emberéből,
 hiszen azért ott van például a Boko
-
 Haram nevű iszlamista terrorszervezet,
 amely mind a mai napig
-
 rendszeresen iskolás lányokat
 rabol el például Nigériában.
 
-- Hát nem tűnt el, ez nem is
-eltűntethető jelenség egyébként.
-
+**BP:** Hát nem tűnt el, ez nem is
+eltüntethető jelenség egyébként.
 Bin Ladennek a kiiktatása valójában
 egy szimbolikus cselekedet volt,
-
 már akkor sem ő volt a tényleges
 de facto vezetője a szervezetnek,
-
 illetve ezt fokozatosan átvette az
 Iszlám Államnak nevezett bűnszervezet,
-
-az Al-kaidának a szerepét,
-
+az al-Kaidának a szerepét,
 de az Iszlám Állam sem szűnt meg,
 tehát ugye a szíriai bázisát,
-
 központját azt nagyjából fölszámolták,
 de a Szíria keleti és Iraki nyugati
-
 részében levő nagy pusztaság az
 nagyon nehezen kontrollálható,
-
 infrastruktúra nélküli,
 és az ott megbújó, folyamatosan mobil,
-
 folyamatosan mozgó különböző
 sejteknek a felszámolása az
-
 nagyon nagy nehézségekbe ütközik.
 Nem beszélve arról,
-
 hogy a szimpatizánsok azok
 megvannak egyébként a
+normál társadalmon belül is.
 
-normál társadalomon belül is.
 Érdekes, hogy pár évvel ezelőtt,
-
 amikor éppen folyt az ISIS-nek,
 az Iszlám Állam szíriai
-
 központjának a fölszámolása,
-
 akkor izraeli titkosszolgálati
 szakértők nyilatkoztak, valamelyik
-
 lapnak most már nem emlékszem,
 hogy melyikben volt ez olvasható,
-
 és akkor azt mondták,
 akiknek van tapasztalatuk az
-
 iszlámmal való konfliktusok terén,
 hogy ők elhibázottnak tartják azt
-
 a stratégiát, hogy fölszámolják
 az Iszlám Állam központját,
-
 mert ott ők legalább tudják,
 hogy hol vannak.
-
 Oda már be tudtak épülni,
-megvannak az információik.
+megvannak az informátoraik.
 
-- Hát kifejezetten ellenezték ezt?
-- Kifejezetten ellenezték,
+**F:** Hát kifejezetten ellenezték ezt?
 
+**BP:** Kifejezetten ellenezték,
 igen, és azt mondták,
 hogy igen, mert onnantól fogva,
-
 hogyha széttrancsírozod,
 akkor azt jelenti,
-
 hogy egy rákos sejtet elkezdesz az
 egész szervezetbe szétterjeszteni.
-
 És míg ott körülbelül tudtuk,
 hogy hol van a címzett,
-
 hol kell megtalálni, milyen
 telefonszámot kell lehallgatni, most
-
 így nagyon leegyszerűsítve a kérdést,
 hova kell az informátorokat beépíteni,
-
 szétfröccsent az egész,
 nem tudjuk, hogy hol vannak.
-
 És óriási network-el,
 hálózattal rendelkeznek.
 
 Az Iszlám Állam kapcsán egyébként
 nagyon fontos megemlíteni azt is,
-
 ami kicsit érthetőbbé teszi
 ennek a látszólag, honnan nőtt
-
 ki a földből ez a szervezet,
 ezt a fajta csodálkozásunkat,
-
 és van ebben a nagyhatalmaknak
 is megint csak sara.
-
 Ugye, az Irak, a Szaddam Huszein
 féle rezsimnek a megdöntése után,
-
 az ottani kormányzó pártnak,
-a vádpártnak a megdöntésével,
-
+a vádpártnak (???) a megdöntésével,
 rengeteg olyan ex-iraki titkosszolga,
 rendészeti katonai vezető
-
 állt be az Iszlám Államba,
 akik a nyugattal szemben harcoltak,
-
 az Egyesült Államokkal szemben
 harcoltak, és katonai titkosszolgálati
-
 tudással gazdagították a szervezetet.
 Tehát nem kell csodálkozni,
-
 nem a földből nőttek ki azok
 a fajta operatív, műveleti,
-
 akár propaganda eszközök is,
-
 amelyeket az Iszlám Államtól
 tapasztaltuk, és azt is hozzáteszem,
-
 hogy ezek az ex-iraki titkosszolgálati
 és katonai vezetők viszont az orosz,
-
 illetve annak idején a szovjet
 KGB-től tanulták a mesterséget,
-
 mert ott képezték ki őket.
-- Hú, hogy minden mindennel
 
+**F:** Hú, hogy minden mindennel
 hogy tud összefüggni,
 és milyen bonyolult módon.
 
-- Így van. Pontosan.
+**BP:** Így van. Pontosan.
 Ilyenbe csak úgy belesétálni,
-
 belegázolni és aztán úgy
 megfordulni és elmenni, lehet,
-
 hogy több kárt okoz, mint hasznot.
-- Van-e esély a szakemberek
 
+**F:** Van-e esély a szakemberek
 véleménye szerint,
 és miután olvasod a szaksajtót,
-
 nyilván tudsz erre válaszolni,
 egy hagyományos világháborúra.
-
 Vagy a konfliktusok továbbra is
 megtarthatók lokális keretek között.
 
-- Van esély, ez a rövid válasz.
-- Tehát van esély világháborúra?
+**BP:** Van esély, ez a rövid válasz.
 
-- Van esély a hagyományos
+**F:** Tehát van esély világháborúra?
+
+**BP:** Van esély a hagyományos
 globális háborúra, szemben
-
 a ma talán divatosabb nézettel,
 hogy jaj, hát ezek majd biztos
-
 ilyen kiber csaták lesznek csak,
 amikről mi nem fogunk tudni.
-
 Ilyenek is lesznek, sőt vannak.
 Ez egyértelmű.
-
 Nagyon komoly esélye van a hagyományos
 fegyverekkel eszkalálódó háborúkra is.
 
-- Puskával, meg tankkal,
+**F:** Puskával, meg tankkal,
 meg rakétákkal?
 
-- Meg rakétákkal, meg harci
+**BP:** Meg rakétákkal, meg harci
 repülőkkel, meg harci hajókkal,
-
 meg tengeralattjárókkal, stb. stb.
 meg hiperszonikus fegyverekkel.
-
 Ha megnézzük a világ nagy
 országainak a katonai költségvetését,
-
 akkor azt láthatjuk,
 hogy ha nem lenne esélye, akkor ők
-
 nem fejlesztenék a hadseregüket.
 Akkor nem gondolkoznának
-
 mondjuk a hiperszonikus
 fegyvereknek a fejlesztésében,
-
 vagy pedig nukleáris meghajtású és
 nukleáris navigálású műholdaknak
-
 a fejlesztésében, amiben például
 az Egyesült Államok gondolkozik.
-
 Elképesztő fejlesztés zajlik a
 hagyományos fegyverzetek terén.
-
 Most a legutóbbi hirtelen
-Nagy-britannia kapcsán,
-
+Nagy-Britannia kapcsán,
 akik ugye a nukleáris arzenáljukat
 fejlesztik, amely egy óriási sokkot
-
 okozott nagyon sokak számára.
 De abból indulnak ki, hogy az
-
 elrettentésnek az erejét növelni kell,
 azért mert egyre komplikáltabb,
-
 egyre komplexebb fegyverrendszerek
 állnak fel az ellenséges hatalmak
-
 részéről, és ezért csak egy
 megfelelő elrettentéssel tudjuk
-
 őket elrettenteni arról,
 hogy ezeket a fegyvereket bevessék.
-
 A probléma egyébként, és ezért
 tudja nehezen elképzelni az ember azt,
-
 hogy ebből lesz egy harmadik
 világháború, mert hát mindenki tudja,
-
 hogy ez önmegsemmisítéssel is járna.
 Hát az emberek azért csak
-
 nem olyan hülyék ugye,
 hogy maguk ellen fordítsák a fegyvert,
-
 vagy hogy ugye, hogy ugye mandinerből
 visszapattanjon rám a golyó.
 
-- Hát ez a nyugtató ebben a kérdésben,
+**F:** Hát ez a nyugtató ebben a kérdésben,
 ez a seduxen,
-
 hogy úgysem fogja kivégezni saját
 magát bármely ország vagy nagyhatalom.
 
-- Igen, csak ha belegondolunk a két
+**BP:** Igen, csak ha belegondolunk a két
 világháborúnak a kirobbanásába,
-
 egyik sem úgy indult el,
 hogy jött az X.Y.
-
 és azt mondta, na most akkor
 kirobbantok egy világháborút.
-
 Általában a háborúk, azok téves,
 angolul ezt a miscalculation,
-
 tehát téves kalkulációból fakadnak a
 saját képességeim, illetve az ellenfél
-
 képességeit és szándékait illetően.
 Churchillnek van ez a mondása, hogy
-
 bármennyire is magabiztos vagy abban,
 hogy meg fogsz nyerni egy háborút,
-
 jusson eszedbe az, hogy egyetlen
 egy háború sem tört volna ki akkor,
-
 hogyha a másik fél nem gondolta
 volna azt, hogy neki is van esélye.
-
 Mert akkor megegyeztek
 volna a tárgyalóasztalnál.
-
 Mert senki nem olyan ostoba,
 hogy elkezdjen törni, zúzni,
-
 hiszen még egy győztes hatalom is
 károkat szenved el egy háborúban.
 
 Az első világháború esetében
 ugye ultimátumot intézett az
-
 Osztrák-magyar Monarchia Szerbekhez,
-
 abban a hitben és reményben,
 hogy a Szerbek úgy is
-
 megadják magukat úgymond.
 Tehát megfelelnek az ultimátumban
-
 foglaltak a követeléseknek, vagy
 ha nem, akkor meg elsöpörjük őket.
-
 Tévesen mértük fel az
 ellenfélnek a képességeit,
-
 illetve bocsánat a szándékait,
 és tévesen mértük fel az
-
 ellenfélnek a képességeit,
 ha nem is a szerbekét, de a mögöttük
-
 álló oroszokét mindenképpen.
 És ilyenfajta konfliktus
-
 jelenleg a világban rengeteg van.
 Ezt hívja egy nagyon neves amerikai
-
-szerző, például Sangaku Paradoxnak,
+szerző, például Senkaku Paradoxnak,
 egy japán szigetről nevezi ezt el,
-
 ami egy nagyon aprócska
 sziget Tajvan és Japán között.
-
 Mondjuk egyébként meg sem találja
 az ember szinte a térképen.
-
 Azért van jelentősége,
 mert a kínai katonai befolyás,
-
 a dél-kínai tenger és
-az óceán csendes-óceán fölötti
-
+az óceán, Csendes Óceán fölötti
 katonai projekció szempontjából
 geostratégiai jelentősége van.
-
 Ugye a japán-amerikai szövetséges
 Japán magáénak tartja ezt a szigetet,
-
 Kína pedig megint csak a magáénak.
 És a katasztrofális az lehet ebben,
-
 hogyha Kína azt gondolja,
 hogy ez olyan jelentéktelen sziget,
-
 olyan messzire van Amerika
 az Egyesült Államoktól.
-
 El fogom úgy foglalni, hogy igazából
 nem hal meg egyetlen egy amerikai sem.
-
 És akkor elfoglalom.
 Az amerikaiak úgysem fognak csinálni
-
 semmit, lesz majd egy kis parádézás,
 egy kis kommunikáció, ez az amaz.
-
 De mi van, hogyha az amerikaiak
 fognak csinálni valamit.
-
 Ugyanez a helyzet Tajvan esetében is.
 Ugyanezt mérte el Japán a második
-
 világháborúban Pearl Harbornak és a
 környező régiónak a megtámadásával.
-
 Az Egyesült Államokat egy
 ilyen dekadens nyugati,
-
 lecsúszott országnak tartották,
 mint ahogy most is,
-
 és egy hadvezér figyelmeztette őket,
-hogy aki Harvardon tanult korábban,
-
+aki Harvardon tanult korábban,
 hogy az Egyesült Államokkal
 nem kéne újat húzni,
-
 mert lehet, hogy most alszik,
 meg megy a kávézás és a cigaretta,
-
 de hogyha valaki a lábukra tapos,
 akkor össze fogják kapni magukat.
-
 És olyat csinálnak,
-
 amit még a világ nem látott.
 És olyat csináltak.
 
-És ez a Sangaku paradox ez erről szól,
+És ez a Senkaku paradox ez erről szól,
 hogy látszólag jelentéktelennek tűnő
-
 konfliktus, globális eszkalációt
 eredményező konfliktust,
-
 katonai konfliktust rejthet magában.
-- Az a kérdés ezek után, hogy mely
 
+**F:** Az a kérdés ezek után, hogy mely
 térségek számítanak különösen
 jelentősnek egy potenciális globális
-
 konfliktus kirobbantása szempontjából.
-- Az Egyesült Államoknak a
 
+**BP:** Az Egyesült Államoknak a
 védelmi stratégiájában,
 illetve az azt ismerő elemzőknek a
-
 tanulmányaiban négy nagyon fontos
 térség van, kerül kiemelésre.
-
-A Dél-kínai-tenger, a Balkán,
+A Dél-Kínai tenger, a Balkán,
 Ukrajna és a Baltikum.
-
 Nagyon érdekes, hogy ebből
 három itt van a szomszédban,
-
 kettő egészen közel a szomszédban,
 ugye Ukrajna és a Baltikum.
-
 Emellett ugyanakkor nagyon komolyan
-
 számolnak a sarkkörön zajló
 változások által kiváltott
-
 katonai konfliktussal is.
 Ennek az időzítése kevésbé belőhető,
-
 de legalább ekkora
 veszéllyel fenyeget,
-
 mint az előbb elsorolt régiók.
-- Na most, ha nézzük azt,
 
+**F:** Na most, ha nézzük azt,
 hogy az idáig létrejött a
 közelmúltban létrejött konfliktusok
-
 milyen hatással voltak a világra.
 Furcsa jelenséget figyelhetünk meg.
-
 Oroszország évekkel ezelőtt
 megtámadta Ukrajnát,
-
 elfoglalta a Krím-félszigetet és a
-
 világ tulajdonképpen a világ keze
 meg volt kötve, mert nem akart
-
 globális fegyveres konfliktust
 kirobbantani Oroszországgal.
-
 Aztán ahogy mondtad is,
 Kína állandó fenyegetést jelent
-
 Tajvan számára, megközelítőleg
 mostanában is hadgyakorlatot
-
 tartott Tajvanhoz közel,
 amennyiben Kína megtámadná Tajvant,
-
 amire van esély, vagy a fenyegetés
 mindenképpen eszkalálódni látszik.
-
 Valószínűleg ugyanaz lenne a helyzet,
 mint Hongkong esetében,
-
 amelyet fenyegetett, fenyegetett,
 majd aztán bevonult,
-
 és a kommunista Kína eluralta,
 amit a világ hát kisebb-nagyobb, de
-
 mégis csak tehetetlenséggel követett.
-Észak-korea harmadik,
-
+Észak-Korea harmadik,
 amely akadálytalanul sanyargatja a
 népét és fenyegeti a környezetét is.
-
 Tehát a világ mintha nem tudna,
 vagy nem akarna semmit tenni.
-
 És akkor a gátlástalanság
 példáit napestig lehetne sorolni.
-
 Ez mindig így lesz,
 amíg a világ világ?
 
-- A gátlástalanság az mindig így
+**BP:** A gátlástalanság az mindig így
 lesz szerintem, amíg a világ a világ,
-
 az erre adandó reakciók terén
 lehet számítani változásokra.
-
 Az első világháborút nem sokkal,
 néhány évvel megelőzte az első,
-
 meg a másik balkánháború.
 Egyből se lett világháború.
-
 Egy szarajevói merényletből
 lett végül világháború.
-
 Ezeket iszonyatosan nehéz kiszámítani,
 és be kell látnunk azt,
-
 hogy erre egzakt képletünk nincsen.
 Itt forgatókönyvekkel lehet dolgozni,
-
 különböző forgatókönyveket lehet
 kidolgozni, és azoknak az ismeretében
-
 lehet esetleg azt sejtenünk jobban,
 hogy most mihez állunk közelebb.
-
 Tajvan esetében egyébként az amerikai
-
 védelmi elit is megosztott,
 hogy vajon be meri-e vállalni
-
 Kína a háborús lépést vagy nem.
 Most egyre többen már vezető katonai
-
 szakemberek, tehát aktív katonák
 is úgy vélekednek, hogy igen.
 
-- Tehát hogy le fogja
-
+**F:** Tehát hogy le fogja
 rohanni Kína Tajvant?
-- Igen. Hogy az elkövetkező 5
 
+**BP:** Igen. Hogy az elkövetkező 5
 éven belül erre sor fog kerülni.
 És ezt egyébként az indokolja
-
 Kína részéről, hogy pillanatnyilag
 katonailag a térségben előnyben van az
-
 Egyesült Államokhoz képest, egy ilyen
 hirtelen hadviselés szempontjából.
 
-- Bár húzódik egyre inkább
+**F:** Bár húzódik egyre inkább
 Amerika is rá erre a térségre,
-
 tehát azt látom, hogy azért egyre
 ő maga is próbál az elrettentés
-
 ilyen-olyan eszközével élni.
-- Igen, így van, ez így van,
 
+**BP:** Igen, így van, ez így van,
 és ez is kérdés, hogy mikor fog
 elcsattanni vagy elpattanni ez a húr,
-
 de Kína az elmúlt években
 elképesztően fölfejlesztette a
-
 rakétarendszereit abban a térségben,
 amelyekkel amerikai katonai
-
 célpontokat el tud találni.
 Az óceánon lévő amerikai bázisokat,
-
 illetve hadihajókat elképesztő módon
 fejlesztette a tengeralattjáró és
-
 a drón és a légi képességeit is.
 Tehát ez pillanatnyilag az
-
 amerikai védelmi szakértők
 részéről a konklúzió,
-
 hogy pillanatnyilag előnyben van Kína
 egy gyors győzelem szempontjából.
-
 Tehát itt ugye arra kell gondolni,
 hogy Tajvannak ugye a katonai
-
-ereje az elhanyagolt kínához képest.
+ereje az elhanyagolt Kínához képest.
 Mivel Tajvanon nem kell amerikai
-
 katonai erőbe ütközniük,
 ezért amerikai katonai veszteség
-
 emberveszteség nélkül el tudná
 nagyon gyorsan foglalni Tajvant.
-
 Az amerikai közvéleményt
 nehezen lehetne rávenni arra,
-
 gondolják ezt a kínaiak, hogy
 belebocsátkozzanak egy ilyen háborúba,
-
 ami potenciálisan egy regionális vagy
 akár globális háborúvá is szélesedhet.
-
 Sőt, egyébként ez az oka annak,
 hogy Kína Európában is próbál
-
 magának szövetségeseket keresni,
 illetve próbálja megosztani
-
 a nyugati szövetséget.
 Sokan mondják azt, hogy jaj,
-
 ezek a szankciók az EU részéről,
 ezek ilyen értelmetlen dolgok,
-
 nem abszolút nem azok.
 Kína próbálja aláásni
-
 az európai közvéleményben az
 Amerika melletti szövetséget.
-
 Annak érdekében, hogy egyre
 kevésbé kelljen számolnia azzal,
-
 hogy egy esetleges tajvani elleni
 háború esetén Amerika építhet
-
 az európai szövetségeseire. Viszont,
 hogyha Amerika nem építhet az európai
-
 szövetségeseire, akkor nem biztos,
 hogy bevállal egy ilyen konfliktust,
-
 mert nem lesz meg hozzá nemzetközi
 közvéleményben a támogatottsága,
-
 és akkor az lesz,
 ami történt a Krímben,
-
 és hogy az egyéb példákat,
 amiket említettél.
-
 Tehát ez megint egy ilyen játék,
 vagy egy ilyen játszma,
-
 próbálom elképzelni azt,
 hogy te mit fogsz csinálni,
-
 hogyha én lépek egy ilyet.
 Sőt, nem csak az, hogy te mit fogsz,
-
 hanem a te szövetségeseid
 mit fognak csinálni.
 
-- Ha már említetted a
+**F:** Ha már említetted a
 fegyverfejlesztéseket, egyáltalán a
-
 hadászati pénzeknek a megugrását.
 Léteznek-e esetleg olyan
-
 fegyverfejlesztések,
 amelyek révén nem beszélhetünk
-
 a kölcsönös sakkban tartásról,
 mert az egyik fél előnyben
-
 van a másikhoz képest.
 Említetted ugye az angol példát,
-
 de mondjuk a nagyhatalmak Amerika,
 Kína, illetve Oroszország esetében
-
 ez hogy áll ez a kiegyenlítettség,
-
 vagy ki nem egyenlítettség?
-- Igen,
 
+**BP:** Igen,
 létezik ilyen fegyverfejlesztés,
 a kérdésnek a másik felére nagyon
-
 gyorsan azt tudom válaszolni,
 hogy épp az benne a katasztrófa, hogy
-
 nem lehet ezt nagyon pontosan tudni.
 Például a hiperszonikus fegyverek
-
 fejlesztését komoly nemzetközi
 egyezmények nem szabályozzák.
-
 A hiperszonikus fegyverek azok
 a fegyverek, amelyek a minimum
-
 a hangsebesség ötszörösével
 képesek egyrészt közlekedni,
-
 másrészt pedig eltérően az
 interkontinentális ballisztikus
-
 rakétáktól, amelyeknek a röppályája
 kiszámítható egy bizonyos ponton túl,
-
 tehát pontosan tudom azt,
 hogy amikor már itt tart,
-
 akkor hova fog becsapódni és mikor,
-
 tehát fel tudok rá készülni,
 és nem kell dilemmáznom,
-
 hogy jaj, lehet,
 hogy nem tudom hova fog becsapódni,
-
 és akkor csinálok valami olyat,
 amit nem kéne. A hiperszonikus
-
 fegyvereket navigálni lehet, miközben
 ilyen elképesztő sebességgel mozognak.
-
 Tehát gyakorlatilag lehetetlen
 velük szemben jelenleg védekezni.
-
 Ezért megnövelik az úgynevezett
-preemtív csapásoknak a kockázatát.
-
+preemptív csapásoknak a kockázatát.
 Tehát egy hatalom, amelyik fél attól,
 hogy egy konfliktus már ott tart,
-
 hogy a másik bevesse a hiperszonikus
 fegyverét, azt mondja, hogy én azt
-
 megelőzendő kilövöm a sajátomat,
 vagy a saját atomfegyveremet.
-
 Tehát a hiperformikus
 fegyvereknek a fejlesztése és
-
 a szabályozatlansága nagy mértékben
 megnöveli egy nukleáris háborúnak
-
 a kockázatát az elemzők szerint.
 A szakfolyóiratokban arra
-
 hívnak fel a szakemberek,
 hogy gyakorlatilag a kölcsönös
-
 elrettentésnek az elve megszűnt,
 viszont maradtak az atomrakéták.
-
 Maradt az atomfegyverkezés fejlesztése
 és egy atomháború kockázata.
-
 Egyébként a szakértők szerint
 a hidegháború óta, a kubai,
-
 sőt a kubai rakétaválság óta,
 mondja ezt a Clinton-kormányzatnak
-
 a nonproliferációért felelős
-szakértője egy könyvében. A klubai
-
+szakértője egy könyvében. A kubai
 rakétaválság óta most a legmagasabb.
 
-- Az atomháborúnak a kockázata?
-- Igen, így van, így van.
+**F:** Az atomháborúnak a kockázata?
 
+**BP:** Igen, így van, így van.
 Nagy-britanniában egy egyetemen
 folyik, egy egyetem bázison folyik
-
 egy nagyon komoly kutatási program,
 amely szerint gyakorlatilag
-
 az atomfegyverkezésnek egy
 következő fázisába léptünk be.
-
 Egyrészt ezek miatt a problémák miatt,
 másrészt a mesterséges intelligencia
-
 és az atomfegyverekezés ötvözése,
 harmadrészt pedig a
-
 hiperszonikus fegyverek és az
 atomfegyverekezés ötvözése miatt.
-
 Emiatt a hidegháborúra jellemző,
 statikusabb, a kölcsönös elrettentés
-
 elvére alapuló atomfegyverkezés
 problémája idejétmúlttá
-
 vált és egy kiszámíthatatlan,
 nagyon gyors, nagyon hirtelen abrupd
-
 eszkalációval fenyegető konfliktus
 veszélye fenyeget bennünket.
 
-- Tehát akkor azt mondod például,
+**F:** Tehát akkor azt mondod például,
 hogyha ezt lefordítjuk
-
 konkrét országokra,
 hogy attól már tartanunk kell például,
-
 hogy az Egyesült Államok és Kína
 jelenlegi gazdasági háborúja
-
 fegyveres konfliktusba torkollik.
 És ugyanez igaz lehet az Egyesült
-
 Államok és Oroszország kapcsolatára.
-- Sőt, hát az Egyesült Államok
 
+**BP:** Sőt, hát az Egyesült Államok
 jelenleg nem tudna sikerrel megvívni
 egy ilyen kétszeres kétágú háborút.
-
 Ugyanakkor megvan a veszélye
 egy koordinált támadásnak.
 
-- Kína és Oroszország részéről?
-- Igen. Mivel ők pontosan tudatában
+**F:** Kína és Oroszország részéről?
 
+
+**BP:** Igen. Mivel ők pontosan tudatában
 vannak annak, hogy az Egyesült Államok
 pillanatnyilag nem képes egy ilyen
-
 háborúnak a sikeres megvívására,
 tehát védelmi szakértők beszélnek
-
 erről, tehát nem egy ilyen,
 ezt én mondom hasamra ütve,
-
 hogy ez egy nagyon komoly probléma.
-- De mondd meg, mit akar Kína
 
+**F:** De mondd meg, mit akar Kína
 tulajdonképpen a világtól?
-A Dél-kínai-tenger hosszú évek óta
-
+A Dél-Kínai-tenger hosszú évek óta
 komoly konfliktusok és folyamatos
 kínai erődemonstráció terepe.
-
 Kezdetben a part menti országok,
 ahogy följegyeztem, Fülöp-szigetek,
-
 Malajzia, Vietnám sérelmezték
 Kína terjeszkedő politikáját.
-
 Egy ideje, ahogy beszéltünk róla,
 Amerika megpróbálja ezt
-
 visszaszorítani, már hogy Kínát,
 és itt ugyanaz a kérdés,
-
 mint korábban volt mondjuk
 a gazdag emberek esetében,
-
 hogy miért nem elég sohasem az,
 ami van? Szóval miért gondolja csaknem
-
 10 millió négyzetkilométeres 1
 milliárd 400 millió lakosú Kína,
-
 hogy csak akkor van biztonságban
 a világból, egyre nagyobb
-
 területeket von az ellenőrzése alá.
-- Az Egyesült Államok részéről
 
+**F:** Az Egyesült Államok részéről
 volt egy ilyen naiv optimizmus,
 hogy Kínának a beengedése a
-
 Világkereskedelmi Szervezetbe, stb.
 stb. ez majd demokratizálni
-
 fogja az országot, és egy ilyen
 kölcsönös együttműködésen,
-
 kölcsönös kis alkukon,
 kompromisszumokon alapuló...
 
-- Ezt te amerikai naivitásnak mondod?
+**BP:** Ezt te amerikai naivitásnak mondod?
 
-- Ez szerintem naivitás volt.
+**F:** Ez szerintem naivitás volt.
 Egyébként ezt ma már vezető
-
-amerikai-kína szakértők is elismerik,
+amerikai kína-szakértők is elismerik,
 hogy azokat a fajta kínai
-
 nacionalista ideológiákat,
 illetve azt a fajta nacionalista
-
 ideológiát, amely most jelenleg
 Kínában uralkodóvá vált,
-
 és amely egyáltalán nem ezt a
 bezárkózó kínai mentalitást tükrözi,
-
 amit sztereotip módon mi
 elképzelünk a kínaiakról.
-
 Ezt fölváltotta, és kifejezetten egy
-
 globális dominanciára törekvő kínai
 expanzionizmust eredményezett.
-
 Ugye a Dél-kínai-tengernek azért a
 jelentősége nem is pusztán regionális,
-
 mert tudjuk,
 hogy a világkereskedelemnek egy nagyon
-
 nagy része azon keresztül halad át,
 évi 3,4 trillió dollárnyi értékben.
-
 Kína dominálni akarja ezt a térséget.
 Az Egyesült Államok meg ezt nem
-
 engedheti meg magának természetesen.
-- Az elképzelhető, hogy Kína
 
+**F:**  Az elképzelhető, hogy Kína
 lesz a világ új szuperhatalma?
-- Én ezt azért nem tudom elképzelni,
 
+**BP:** Én ezt azért nem tudom elképzelni,
 mert van azért itt egy
 olyan erős hatalom az
-
 Egyesült Államok személyében,
 amelyik ezt nem fogja megengedni.
-
 Ha megnézzük a világ
 országainak a katonai költését,
-
 akkor az összköltésnek a
 közel negyven százalékát az
-
 Egyesült Államok költi el.
 Kínának a költése ennek az egyharmada.
-
 Tehát azért még mindig itt tartunk,
 ez egy 2020-as adat.
-
 Úgyhogy az Egyesült Államok
 nagyon erős ország továbbra is,
-
 gazdaságilag is, katonailag is,
-
 intellektuálisan is,
-elképesztően a Knowhow van,
-
+elképesztő know-how van,
 az Egyesült Államokban,
 amelyet hogyha háborús célokra fognak
-
 összpontosítani és fókuszálni,
 ahogy a világháborúban, tehát ugye
-
 a civil szféra is beáll ebbe,
 mert megtámadva érzi magát,
-
 akkor az óriási nagyságrendű
 változásokat fog tudni eredményezni.
-
 Ez nem azt jelenti, hogy az Egyesült
 Államok lenyomja a víz alá Kínát,
-
 de azt, hogy azt fogja gondolni,
 hogy le fogja tudni nyomni,
-
 és hogy itt egy Egyesült Államok
 által dominált világrendet
-
 fog tudni kialakítani,
 azt viszont igen, és ez vezethet
-
 nagyon komoly konfliktusokhoz.
-- Egyébként, hogyha Kína mégiscsak
 
+**F:** Egyébként, hogyha Kína mégiscsak
 a világ szuperhatalmává lenne,
 az milyen hatással lenne a világra,
-
 vagy milyen hatással lenne
 akár még ránk is, Európára,
-
 illetve Magyarországra?
 
-- Hát ez nagyon függ attól az
+**BP:** Hát ez nagyon függ attól az
 ideológiától, amit Kína képvisel.
 
-- Hát de azért ezt nagyjából tudjuk,
-nem? - Igen, ezt tudjuk,
+**F:** Hát de azért ezt nagyjából tudjuk,
+nem?
 
+**BP:** Igen, ezt tudjuk,
 és nagyon nagy kétségek vannak
 azzal kapcsolatban, hogy ez változna.
-
 Pont ez volt a várakozás,
 erre utaltam az előbb,
-
 hogy nagyjából a kommunista,
 ateista ideológia az kifut a divatból,
-
 és egyébként voltak is erre
 mutató jelek, mert ugye a civil
-
 társadalomnak, ha így mondható,
 vagy hát a középrétegnek
-
 az erősödésével már jóval
 bonyolultabb azért a kínai képlet,
-
 de ennek az erősödéséből azért
 a kínai kommunista pártnak az
-
 ideológiai szorítása is felhígult.
 Aztán jött a jelenlegi vezetés,
-
 és hogy úgy mondjam, rendet tett.
 Elemzők szerint pontosan ez lehet
-
 a csapdája, és ez lehet a végzete
 a jelenlegi kínai vezetésnek,
-
 amit ő az erősségének hisz,
 hogy az autoriter kommunista
-
 állampárti ideológia és az
 állampártiság az csökkenti egy
-
 rendszernek az önkorrekciós képességét
 és készségét és alkalmatlanná
-
 teszi arra, hogy egy globális
 szerepet sikerre vigyen, mert itt
-
 elképesztő adaptív képességre és
 önkorrekciós képességekre van szükség.
-
 És nem fog számolni azzal,
 nem tud számolni az összes változóval,
-
 az összes olyan tényezővel,
 amivel számolnia kéne.
 
-- Tehát önmaga lényegéből
+**F:** Tehát önmaga lényegéből
 fakad önmaga csapdája.
 
-- Pontosan, igen.
+**BP:** Pontosan, igen.
 Ez az autórezsimeknek a végzete
-
 szokott általában lenni, pláne akkor,
 hogyha globális ambíciókkal
-
 rendelkeznek. Erre is mutat azért
 jó pár példát a történelem.
-
 Az egy naiv sztereotípia azt gondolni,
 hogy azért,
-
 mert látjuk Kínának a felívelését,
 és hogy mindent szinte Kínában
-
 gyártanak, akkor most Kína átveszi ezt
 a szerepet azért ennél bonyolultabb
-
 a világpolitika és a geopolitika,
 és maga a kínai rendszer is.
-
 A kínai rendszernek,
 hogy úgy mondjam, a betegségei,
-
 a gyengeségei nagyon komolyak,
 nagyon erősek,
-
 és nagyon sokan számolnak azzal,
 hogy igazából a jelenlegi kínai
-
 vezetés a következő 10-15 évet adta
 magának arra, hogy ezt az előnyét,
-
 amit most relatíve,
 amivel rendelkezik,
-
 ezt ki tudja használni.
 Emiatt aztán belehajthatja
-
 magát olyan konfliktusokba,
 amelyekből nem fog tudni jól kijönni,
-
 mert hogy időtényező van
 és abban reménykedik,
-
 hogy most itt az esély arra,
 hogy a meggyengült,
-
 hiába történt változás az Egyesült
 Államok vezetése élén, a nyugati
-
 szövetségesi rendszer az előző
 elnöknek köszönhetően meggyengült.
-
 Tehát egyáltalán nem olyan magától
 értetődő az, hogy a nyugat
-
 beáll az Egyesült Államok mögé,
 relativizálódott az Egyesült
-
 Államoknak a morális súlya,
 az előzőhöz képest is,
-
 úgyhogy most kínálkozhat remény arra,
 hogy esetleg az Egyesült
-
 Államokat ki lehet játszani.
-- Na most, ha Kína,
 
+**F:** Na most, ha Kína,
 amire szintén utaltál,
 gazdaságilag próbálja egyre kijjebb
-
 tolni a befolyási övezetét. Ehhez
 nyilván szüksége van trójai falovakra.
-
 Például a nyugati fejlett gazdasággal
 rendelkező demokráciákkal szemben.
-
 Lehet, hogy például Kína
 Magyarországgal valami ilyesmi
-
 szerepet akar eljátszatni?
-- Kína nem humanitárius alapon
 
+**BP:** Kína nem humanitárius alapon
 köt gazdasági egyezményeket
 egyetlen egy országgal sem.
-
 Ez a selyemút kezdeményezés
 is alapvetően arra épül,
-
 hogy geopolitikai,
 illetve gazdasági befolyás alá
-
 vonja azokat az országokat,
 akik ebben részt vesznek.
-
 Részben azáltal is, hogy biztos abban,
 hogy nem fogják tudni
-
 finanszírozni azokat a hiteleket,
 amiket kapnak Kínától,
-
 és így gyakorlatilag infrastruktúrát,
 illetve földterületeket,
-
 kikötőket, utakat, vasutakat, stb.
 stb. ad át, ad el Kínának.
-
 Tehát ez egy abszolút a
 geopolitikai terjeszkedésnek egy,
-
 hogy úgy mondjam a hardveres része.
 A másik pedig a percepció menedzsment,
-
 ezért szükség van olyan országokra,
 olyan kezdeményezésekre,
-
 olyan egyetemekre,
 olyan kutatóintézetekre, stb.
-
 stb. amelyen keresztül én meg
 tudom magamat jeleníteni. Már,
-
 hogy úgy mondjam, az ellenfélnek a
 meghódítandó ellenfélnek a területén.
-
 Tehát ez az expanzió egy nagyon-nagyon
 veszélyes játszma. Nemcsak azért,
-
 mert ezáltal belekerülünk egy
 harapófogóba az Egyesült Államok
-
 és Kína között, hanem azért is,
 mert ugye nem egy transzparens,
-
 és nem egy demokratikus országgal
 állunk ilyenfajta viszonyban,
-
 innentől fogva,
 hanem egy autoriter rezsimmel,
-
 amely a saját maga törvényei
 szerint teszi, amit tesz,
-
 egyelőre még nem erőszakkal.
-- Na most itt van az Európai Unió,
 
+**F:** Na most itt van az Európai Unió,
 amely látszólag gyengének
 mutatkozik egy ilyen nagyhatalmi
-
 törekvéssel szemben, pontosabban,
 amennyire az újsághírek alapján
-
 ezt olvasni lehet, próbálkozik
 hol a tárgyalásos megoldással,
-
 hol a szankcionálás eszközével, de
 igazából véve nem nagyon látom, lehet,
-
 hogy te ennek majd ellentmondasz,
 hogy az Európai Unió fölvette volna
-
 ezt a kesztyűt, és a maga eszközeivel
 szembeszállna a kínai törekvésekkel.
-
 Néhány európai uniós ország,
 többek között Magyarország is
-
 ennek már az egyik résztvevője,
 vagy az egyik,
-
 ha úgy tetszik szereplője.
 Hogyan látod az Európai
-
 Unió szerepét e tekintetben?
 Tehát mit tud tenni az Unió,
-
 illetve az amerikai segélyélettel,
 hogyha az erőiket csoportosítják,
-
 akkor milyen módon képesek
 mégiscsak megálljt parancsolni
-
 ennek a terjeszkedős politikának?
-- A legutóbbi időszakban
 
+**BP:** A legutóbbi időszakban
 több erre vonatkozó,
 utaló kísérlet vagy együtt gondolkodás
-
 zajlik az Európai Unión belül,
 de az Európai Uniónak önmagában a
-
 döntéshozatala, meg a külpolitikája,
 az nagyon sok sebből vérzik.
-
 Tehát ugye itt nem egy egységes
 külpolitikáról beszélünk,
-
 azért az Európai Unió nem egy állam,
 akik ugye szokták azt mondani,
-
 hogy na itt egy birodalom az
 Európai Unió személyében, Európai
-
 Unió nem egy birodalom jelenleg,
 önkéntesen lehet csatlakozni,
-
 önkéntesen lehet távozni,
 lehet vétózni, stb. stb.
-
 Emlékszünk még a Szovjetunió idejéből,
 ott azért nem lehetett ezt
-
 bejelenteni Észtországnak, hogy ki
 szeretnék lépni a Szovjetunióból.
-
 Még Csehszlovákiának sem lehetett,
 meg Magyarországnak sem.
 
-- Pedig nem volt a Szovjetunió része.
-- Így van, igen, igen.
+**F:** Pedig nem volt a Szovjetunió része.
 
+**BP:** Így van, igen, igen.
 Az egy birodalom.
 Tehát itt a problémák strukturálisak,
-
 és nem feltétlenül konkrétan a
 kínai kérdéshez kapcsolódnak,
-
 hanem annál sokkal alapvetőbbek.
 De tény,
-
 hogyha nem ébred fel az Európai Unió,
 akkor már késő lesz e tekintetben is
-
 és akkor már csak a követői leszünk,
 és nem az alakítói az eseményeknek.
 
-- Van még egy terület,
+**F:** Van még egy terület,
 ami az elmúlt évtizedben került
-
 előtérbe ez a Kibertérben
 zajló idézőjeles hadviselés.
-
 Lehet, hogy ha lesz is háború,
 az az átlagember számára
-
 ilyen értelemben láthatatlan,
 kibertérben fog zajlani.
-
 Zsarolóvírusokkal, kémszoftverekkel,
 dezinformációk tömegével, ugye?
 
-- Hát, ilyen háború már van,
-
+**BP:** Hát, ilyen háború már van,
 jelenleg is.
 Ennek ugye a mértéke az, ami kérdés,
-
 hogy ez mikor fog eszkalálódni,
 de a kiberháború nagyon könnyen
-
 csap át tényleges háborúba.
 Tehát azért abba gondoljunk bele, hogy
-
 amikor egy ország megtámadja egy másik
 országnak a kritikus infrastruktúráit,
-
 tehát mondjuk beavatkozik akár
 az atomerőműnek a működésébe,
-
 vagy felrobbant egy
 atomerőművet teszem azt.
 
-- És ez lehetőség.
-- Lehetőség, igen,
+**F:** És ez lehetőség.
 
+**BP:** Lehetőség, igen,
 lekapcsolja a villanyt, vagy a vizet,
 és a többi, erre vannak azért példák,
-
 vagy behatol egy olyan
 szoftvergyártó cégnek a rendszerébe,
-
 amely egyébként kritikus helyekre,
 helyszínekre szállít szoftvereket.
-
 Így volt ez a Solarwind botrány
 nemrég az Egyesült Államokban,
-
 ahol a Pentagon és amerikai
 kormányzati szerveknek a szoftverei
-
 lettek orosz vírussal megfertőzve és
 hosszú időn keresztül olvasgathatták
-
 az ottani iratokat az orosz
 titkosszolgálat részéről. Ezeknél
-
 nagyon-nagyon nehéz megítélni azt,
 hogy mikor fog elpattanni itt a húr,
-
 és mikor fogja azt mondani a másik
 ország, hogy jó, akkor én most nem
-
 ellen csapok egy kiber válasszal,
 hanem odacsapok fizikai válasszal.
-
 Az is kérdés, hogy mikor fognak ezek
 egymást felerősítő tényezővé válik,
-
 tehát a hagyomány nem csupán
 kiber és aztán egy csapás,
-
 hanem a kiber párhuzamosan.
 Ugye ez a hibrid hadviselés,
-
 divatos kifejezés manapság,
 amikor a kiberhadviselés tényleges
-
 fizikai hadviselése is társul.
 Ennek példái vannak már most is
-
 egyébként, hogy Ukrajnában ez
 is megfigyelhető volt, de tény,
-
 hogy a kiberhadviselésnek van egy
 olyan aspektusa, amit még nem látunk,
-
 és ezért nem gondolunk benne,
 hogy mennyire a küszöbén,
-
 a szakadék szélén táncolunk.
-- Az azért furcsa tudod,
 
+**F:** Az azért furcsa tudod,
 hogy ebben a globális világban sok
 nacionalista vezető állandóan a
-
 saját szuverenitására hivatkozik
 meg nemzetállamra, miközben más
-
 országok szuverenitását semmibe
 véve avatkozik azok belügyeibe,
-
 mert mondjuk egy amerikai választás,
 hogy arra utaljak egyértelműen,
-
 az amerikai polgárok belügye.
 Mégis példa volt erre az
-
 orosz állami hackerek,
 meg ilyen álhírterjesztők sokasága,
-
 hogy beavatkozott az előző
 választásba. Ez utóbbiban még egyelőre
-
 nincs bizonyítva, vagy legalábbis
 tényszerűen nem arra dőlt a dolog,
-
 mint amerre Oroszországnak érdeke
 lett volna. Van-e még egyáltalán
-
 értelme ezen a szálon,
 tehát ezen az ezer szálon összeforrott
-
 világban beszélni nemzetállamokról,
 nemzeti szuverenitásról,
-
 hiszen kölcsönös kompromisszumok
 nélkül nem működtethető a világ.
-
 Ez azért már világosan látszik
 az utóbbi évek vagy egy-két
-
 évtizednek a tapasztalatából, nem?
-- A nemzetközi rendnek az a
 
+**BP:** A nemzetközi rendnek az a
 koncepciója, illetve az a paradigmája,
 ha lehet ilyen csúnyán fogalmazni,
-
 amelyre gyakorlatilag a nemzetközi
 kapcsolatok az utóbbi évszázadokban
-
 épültek az állami szuverenitás elve,
 az állam abszolút szuverenitásnak
-
 az elve, ez megdőlni látszik.
 Ugye ez az elv azt jelentette,
-
 hogy legalábbis elméleti szinten,
 hogy az állam a territoriális,
-
 tehát a területi alapon szerveződő
 állam a saját területe fölött abszolút
-
 önjogokkal rendelkezik.
 A szuverenitás az ezt jelenti
-
 nagyjából. Senki nem jogosult arra,
 hogy beavatkozzon.
-
 Abból indult ki ez a rendezés,
 ez még az újkornak a hajnalára
-
 vezethető vissza, hogy az állam
 képes nagyjából a saját határai
-
 között gondoskodni az állampolgárainak
 a jólétéről és a biztonságáról.
-
 Csakhogy a globális korszaknak
 a kihívásai ezt alapvetően
-
 megkérdőjelezik ezt a premisszát,
 ezt az előfeltevést,
-
 hiszen ahogy beszéltünk erről,
 és ezzel kezdtük a beszélgetést,
-
 például a klímaváltozás
 erre nagyon jó példa.
-
 A klímaváltozásnak az okai és a
 következményei is a nemzethatárokat,
-
 illetve a megoldása is a nemzeti
 határokon túl terjeszkedik.
-
 Svájcban a magas hegyek között
 is találtak már mikroműanyagokat,
-
 garantáltan nem a svájciak vitték oda,
 hanem a légköri áramlatok,
-
 amikért az egyébként szelektíven
 hulladékot gyűjtő és teljesen tiszta
-
 utcákat tartó svájciak nem feltétlenül
 tehetnek legalábbis akkora arányban.
-
 Tehet viszont, ha nem tudom,
 hány ezer kilométerrel
-
 arrébbi valamelyik X-ország,
 vagy nem akarok senkit megbántani,
-
 ahol ez nem így történik.
 Tehát a kiváltó okokat sem tudom
-
 lokalizálni és határok közé zárni,
 meg a megoldást sem.
-
 Én hiába tartom be magam részéről a
 különböző kvótákat és szabályokat és
-
 szelektív hulladékgyűjtést, satöbbi,
-
 hogyha az 1500 kilométerre lévő
 ország nem tartja be. Na most, ki az,
-
 aki megmondja annak az országnak,
 hogy márpedig tartsd be.
 
-- Ezért kérdezem, hogy például van
+**F:** Ezért kérdezem, hogy például van
 akkor realitása egy világhatalomnak,
-
 vagy világkormánynak?
-- Igen. Egyébként evvel ezt a
 
+## Egyetemes normarendszer, világhatalom, összeomlás
+
+**BP:** Igen. Egyébként evvel ezt a
 kérdést feszegetjük, hogy itt
-
 meg kéne haladni egy alapelvet.
 Tehát ki kéne mondani azt, ugye,
-
 és ez itt már nagyon veszélyes vizeken
 evezünk. Ki kéne mondani azt,
-
 hogy akkor meghaladjuk a nemzetállami
 szuverenitásnak az elvét, ezt viszont
-
 akkor csak úgy lehet meghaladni,
 hogyha elfogadjuk azt, hogy létezik
-
 egy egyetemes normarendszer,
 ami felette áll minden nemzetállamnak.
-
 Én még nem is a
 világhatalomról beszélek,
-
 hanem arról a normarendszerről,
 amelyből kinőhet egy világhatalom.
-
 Amire a világhatalom hivatkozhat,
 hogy na, én ezt hajtom be rajtuk,
-
 nem a saját önkényes elveimet,
 hanem létezik egy egyetemes
-
 normarendszer, objektíve létezik
 egy egyetemes normarendszer,
-
 és én csupán afelett őrködöm.
 Azt nem tudom elképzelni, hogy olyan
-
 elvek mentén létre tudna ez jönni,
 amelyek valóban igaz elvek. Tehát,
-
 hogy emberek vagyunk, és most ki az,
 aki megmondja, hogy mi a jó?
-
 Itt már megint a morál és a teológia
 vizeire vezetünk. Erre voltak
-
 példák egyébként a történelemben,
 tehát voltak ilyen hatalmak.
-
 Ilyen volt,
 így működött a Római Birodalom,
-
 így működött a Nagy Sándori Birodalom,
 így működött aztán a középkori
-
 keresztény Európa, amely azt mondta,
 hogy igen, létezik egy ilyen
-
 egyetemes eszmerendszer,
 és a politikai hatalmaknak
-
 kötelessége ezt érvényesíteni.
 És amelyik politikai hatalom ezt
-
 nem érvényesíti, az elveszti a
 legitimációját és bárki megtámadhatja.
-
 Ugye a középkorban ez volt
 a nagyon egyszerű ennek a
-
 politikai filozófiának a lényege.
 Most jelenleg elképzelhetetlennek
-
 tűnik egy ilyen modellnek a
 felélesztése. Viszont egy dolgot
-
 figyelmen kívül hagyunk, mégpedig
-
 az összeomlásnak a lehetőségét,
-
 illetve az összeomlás által az emberek
 mentális állapotában bekövetkezett
-
 változásnak a sajátosságait.
 Itt arról beszélek, hogy az
-
 ember alapvetően hajlamos ilyen
 lineáris változásokban gondolkodni.
-
 Csakhogy ezek a katasztrófák,
 amikről eddig beszéltünk,
-
 ezek nem lineárisak.
 Ezek elvileg összeomlások.
-
 Ugye létezik egy ilyen tudományág is,
 ugye ez a kollapszológia, ami ugye
-
 az angol és a francia kifejezés
 alapján az összeomlástant jelenti,
-
 amely arról beszél, hogy itt megyünk,
 megyünk, megyünk, és egyszer csak egy
-
 összeomlás fog bekövetkezni,
 amire nincsenek az emberek
-
 tudatállapotilag mentálisan
 felkészülve, és ez pánikreakciót
-
 fog kiváltani az emberekből,
 és ennek a hatásai kiszámíthatatlanok.
 
-- Na, de akkor mi a megoldás, tehát
+**F:** Na, de akkor mi a megoldás, tehát
 ezekre a globális problémákra? Semmi?
 
-- Én nem tudom megmondani,
+**BP:** Én nem tudom megmondani,
 hogy mi a megoldás.
-
 Hazudnék, ha azt mondanám,
 meg nem akarok ilyen bölcsnek tűnni.
-
 Én azt gondolom, hogy a megoldás felé
 vezető első lépés az az,
-
 hogy szembenézzünk a valósággal.
 Ez már egy óriási lépés lenne,
-
 hogyha szervezetten,
 magánemberként média, a politika,
-
 a kutatóműhelyek és társadalom, stb.
 stb. És vennénk a fáradtságot,
-
 meg a lélektani gyötrelmet,
 mert ez az, hogy szembenézzünk
-
 a különböző forgatókönyvekkel.
 Az, hogy mi lehet ebből,
-
 mivé válhat mindez a helyzet,
 amiben benne vagyunk,
-
 és nem legyinteni arra, hogy ó,
 hát mindig volt valami.
-
 Lényeg az, hogy egészség legyen,
 ugye ezt szokták mondani.
-
 Ha van valami, amit most komolyan
 kell venni a világon, akkor ez.
-
 Akkor nem az, hogy jaj,
 lehetünk megint kávézni a teraszra.
-
 Engem egy kicsit ez így megzökkentett,
 amikor ezt láttam, hogy mindenki
-
-ettől őrül meg a vírusvárvány után,
+ettől őrül meg a vírusjárvány után,
 hogy végre ki lehet ülni a teraszokra,
-
 hogy majd visszazökken minden a régi
 kerékvágásba, nem fog visszazökkenni
-
 minden a régi kerékvágásba,
 és ne is zökkenjen vissza
-
 minden a régi kerékvágásba,
 nem volt az annyira jó.
-
 Lehet, hogy bizonyos köröknek igen,
 de ha a globális egészet nézzük,
-
 akkor nem, és mint ahogy az
 előbbi beszélgetésből kiderült,
-
 a globális egészet kell nézni,
 mert előbb-utóbb elér hozzánk az, ami
-
 pillanatnyilag nagyon messzinek tűnik.
-- A titkosszolgálatok feladata és
 
+**F:** A titkosszolgálatok feladata és
 munkája mennyiben változott meg ebben
 a globalizált, technicizált világban?
 
-- Hát a feladata nagyon
+**BP:** Hát a feladata nagyon
 megváltozott szerintem,
-
 a titkosszolgálatok tevékenysége
 az szerintem sajnos nem annyira.
-
 Sokkal rugalmasabb, adaptívabb és
 dinamikusabb szemléletre van szükség,
-
 és annak a megértésére,
 hogy egy titkosszolgálatnak
-
 gyakorlatilag az állam legfejlettebb
 érzékszervévé kellene válnia,
-
 nem titkos rendőrséggé és
-
 hatalmi elnyomó eszközzé,
 hogy minél inkább el legyen választva
-
 a pártpolitikától ezeknek a
 szervezeteknek a tevékenysége,
-
 épp egyébként, hogy is mondjam,
 önérdeke lenni egy államnak,
-
 mert onnantól fogva,
 hogy a pártpolitikának alá
-
 van rendelve, onnantól fogva
 a kontraszelekció beindul,
-
 és a lojalitás ír felül mindent.
 A szakemberek, a teljesítmény alapú
-
 gondolkodás ugye háttérbe szorul, és
-
 az adott párt hatalmának a fenntartása
 válik első számú szemponttá.
-
 Lekerül a figyelem a valódi
 biztonsági környezetről,
-
 amely bennünket körbevesz, országos,
 regionális és globális szinten is,
-
 és szépen sétálunk bele egy megfelelő
 felkészültség nélkül a nagy bajba.
 
-- Hát akkor viszont nem tudom
+**F:** Hát akkor viszont nem tudom
 kihagyni, bármennyire is akartam
-
 a belpolitikát kisodorni ebből
 a beszélgetésből, hogy mi a
-
 véleménye erről a kiberfegyverről,
 aminek a Pegazus kémszoftvert tartják,
-
 mert ez napjaink része,
 és abból következőleg,
-
 amit itt most elmondtál,
 abból nekem az következik,
-
 hogy azért itthon,
 amire ezt használják,
-
 meg amire használták,
 ellenzéki politikusok,
-
 újságírók megfigyelésére,
 ez akkor mindenképpen a rossz irány,
-
 a borzasztóan rossz irány.
-- A fegyverről azt elmondom,
 
+**BP:** A fegyverről azt elmondom,
 hogy nyilván a kiberfegyverről,
 erről az informatikai fegyverről,
-
 hogy ilyenek vannak, tehát ezen
 már nagyon nem kell meglepődnünk,
-
 és hogyha ez most le is járatódik,
 lesz helyette új,
-
 illetve már van helyette új,
 ami hasonló dolgokra képes. Az tény,
-
 hogy a hivatalos profilja szerint is
-
 ezt terrorizmus és szervezett bűnözés
 ellen kellene használni és bevetni.
-
 És valóban, de az is tény,
 és ebben igaza van a
-
 gyártó szervezet vezetőnek,
 hogy ugye a felhasználó dönti el,
-
 hogy mire alkalmazza ezt a szoftvert.
 És akkor itt visszatérünk az előző
-
 kérdésben foglaltakhoz, hogy azt,
 hogy a felhasználó mire használja,
-
 azt pedig a politikai
 döntéshozók határozzák meg.
-
 Tehát az ő általuk vallott,
 elsajátított biztonságpolitikai
-
 és nemzetbiztonsági filozófia és
 stratégia az, amiből aztán,
-
 aminek alapján aztán a kézben levő
 fegyvert legyen az lőfegyver vagy
-
 lehallgatásra alkalmas fegyver,
-
 használni fogják.
-- Ha fejlődnek ezek a
 
+**F:** Ha fejlődnek ezek a
 megfigyelési eszközök,
 fejlődnek az ellenőrzésükre vagy a
-
 lebuktatásukra szolgáló eszközök is?
 Tehát ez is egy ilyen
-
 párhuzamos pályán halad?
-- Igen. Hát ilyen fej-fej
 
+**BP:** Igen. Hát ilyen fej-fej
 mellett folytatott küzdelem ez.
-Kicsit azért mindig általában a hacker
-
+Kicsit azért mindig általában a feltörő, "hacker"
 eszközök vannak kicsit előnyben.
 Ez egy elképesztő és óriási verseny,
-
 ne legyenek illúzióink,
 ez folytatódni fog.
-
 Tehát lebukik egy rendszer,
 jön a következő helyette.
 
-Most már akkor lezárva a beszélgetést,
+**F**: Most már akkor lezárva a beszélgetést,
 azt hadd kérdezzem meg,
-
 mindent egybevetve,
 hogy mit mondanak a kockázatelemzéssel
-
 foglalkozó műhelyek a föld jövőjéről.
 Mi a legkisebb közös többszörös,
-
 amit mindenki elfogad.
-- Az, hogy az emberiség a
 
+**BP:** Az, hogy az emberiség a
 történelmét eddig soha nem jellemző
 kihívás és válság előtt áll.
-
 Ez egy legkisebb kötős többszörös,
 a mértékadó elemzők
-
 részéről mindenképpen.
 Ennek oka nyilvánvaló a technológiánk
-
 szintje, ami alkalmas arra,
 hogy elpusztítsuk az emberiséget.
-
 Oka az a környezeti válság és
 katasztrófa, amit mi indukáltunk,
-
 tehát az emberiség váltott ki,
 és amely globális szinten befolyásolja
-
 azt az életteret, amiben élünk és
 termelnünk és alkotnunk kellene.
-
 És hozzájárul ehhez a kivételes
 helyzethez a létszámunk is.
-
 Soha nem voltunk még ilyen sokan.
 Soha nem volt meg az a lehetőségünk,
-
 hogy ilyen gyorsan elérjük a másikat
 jóval vagy rosszal egyaránt.
-
 Az elmúlt hónapokban egyébként
 a tavasz során két olyan
-
 jelentés is született az amerikai
 hírszerző közösség részéről.
-
 Az egyik az az éves kockázatjelentés,
-
 a másik pedig a 2040-ig,
 tehát az elkövetkezendő két évtizedre,
-
 két évtizedet felölelő
 forgatókönyvekkel foglalkozik,
-
 amelyek nagyjából erre a
 konklúzióra jutnak egyébként,
-
 és ehhez társulnak a különböző
 neves egyetemek Princeton, Oxford,
-
 Cambridge keretein belül működő,
 az emberi civilizáció fennmaradásával,
-
 illetve előtte lévő kihívásokkal
 foglalkozó intézeteknek a jelentései,
-
 amelyek arról szólnak,
 hogy az elkövetkezendő évtizedben, a
-
 2020-as évtizedben minden valószínűség
 szerint az emberi civilizáció
-
 sorsát nagymértékben befolyásoló
 összeomlással kell szembenéznünk.
 
-- Hát ez jó végszó, mondhatom, bár
-nem mintha sokkal derűsebb lett volna
+## Személyes kérdések, befejezés
 
+**F:** Hát ez jó végszó, mondhatom, bár
+nem mintha sokkal derűsebb lett volna
 a beszélgetés bármely szakasza is.
 Nagyjából akkor ez a helyzet. Valamit
-
 hadd kérdezzek már meg személyesen,
 és akkor hátha ezzel lehet kicsit
-
 oldani ezt a feszültséget,
 amit itt hosszú perceken vagy
-
 órákon keresztül okoztunk,
 hogy ugye biztonságpolitika
-
 és nemzetbiztonsági elemző vagy.
-Miféle gyerek vagy ifjúkori
-
+Miféle gyerek- vagy ifjúkori
 érdeklődés vezet el idáig.
 Pláne azt is hozzáteszem, hogy ugye
-
 kezdetben vallástörténetet tanultál?
-- Hát az első diplomám az
 
+**BP:** Hát az első diplomám az
 vallástudományi, igen diploma,
 aztán nemzetközi kapcsolatok,
-
 hírszerzési tanulmányok,
 közel-keleti iszlám.
-
 Ezek úgy engem, hát hogy is mondjam,
 a családi indíttatásom az enyhén
-
 szólva nem köt a nemzetbiztonsághoz,
 apukámat ugye '56-ban lecsukták,
-
 tehát megfigyelt család
 voltunk az elmúlt rendszerben,
-
 tehát enyhén szólva nincs közünk
 a belügyi nómenklatúrához,
-
 és hát apukám,
 mint költő meg művészember,
-
 nagyjából a családtagjaim is
 körülbelül ezt a zsánert képviselik.
 
-- Most már mondd ki apukád nevét is,
+**F:** Most már mondd ki apukád nevét is,
 bár ebből lehet következtetni, ugye?
 
-- Buda Ferenc, igen.
-- Igen. Tehát nagyjából ez
+**BP:** Buda Ferenc, igen.
 
+**F:** Igen. Tehát nagyjából ez
 a zsáner a családban, úgyhogy ilyen
 szempontból én ebből kilógok.
-
 Mondom, engem igazából a történelem
 és a történelem tétje érdekelt.
 
-- De akkor mi szél sodort éppen
+**BP:** De akkor mi szél sodort éppen
 most a biztonságpolitikai pályára?
 
-- Kevés volt pusztán az elmélet.
+**BP:** Kevés volt pusztán az elmélet.
 Én továbbra is foglalkozom
-
 vallástudománnyal és teológiával is
 egyébként emellett. De úgy gondolom,
-
 hogy valamit azért tenni is kell.
 Talán a habitusom is, meg érdeklődésem
-
 is abba az irányba tolt el engem, hogy
 egy olyan területtel foglalkozzak,
-
 amelyen keresztül konkrétabban tudok
 azokhoz a kihívásokhoz hozzászólni,
-
 esetleg akár pozitív befolyást
 is gyakorolni, bár az embernek
-
 túl sok illúziója nem lehet.
 Mert kaptam már a munkahelyemen,
-
 hogy amikor tizenvalahány
 évvel ezelőtt a járványok,
-
 meg a klímaváltozás veszélyére
 és az arra való felkészülésre
-
 figyelmeztetem egy anyagban, hogy egy
 ilyen bölcsészkedésre nincsen idő.
 
-- Így kezelték akkoriban?
-- Igen, igen, zárójel bezárva. Tehát,
+**F:** Így kezelték akkoriban?
 
+**BP:** Igen, igen, zárójel bezárva. Tehát,
 hogy de mégis az embert az motiválja,
 hogy valamit tegyen a közért,
-
 merthogy elsodor minket az ár.
 Tehát nekem egy ilyen konkrét
-
 cselekvés iránti késztetés is talán
 az, ami ebbe az irányba ellökött.
 
-- De szenvedélyesen ezt kutattad,
+**F:** De szenvedélyesen ezt kutattad,
 ezt figyelted, ezt olvastad,
-
 ennek mentél utána a világban.
 Szóval folytonosan ez töltötte ki az
-
 életedet az ezzel való foglalkozás?
-- Ezzel is való foglalkozás.
 
+**BP:** Ezzel is való foglalkozás.
 Engem iszonyatosan érdekel a
 történelem is és a történelmi
-
 összefüggések, a történelmi párhuzamok
-
 az ókortól fogva napjainkig.
 Engem iszonyatosan érdekelnek
-
 az ókori történések,
 az ókori birodalmaknak a logikája is.
-
 Nagyon érdekel a vallástörténet is,
-
 hiszen az emberi pszichéről,
 az emberi lélektanról szól,
-
 vagy jó, vagy rossz értelemben.
 Tehát olyan történelmi,
-
 kulturális, vallási,
 morális perspektívákról beszélünk,
-
 amikor erről beszélünk, amelyek
 szerintem egyrészt lenyűgözőek,
-
 másrészt nyomasztóak, harmadrészt
 pedig ösztökélik az embert,
-
 hogy járjunk a végére ennek,
 és próbáljuk megérteni.
 
-- Jó volt találkozni veled, Péter,
+**F:** Jó volt találkozni veled, Péter,
 még hogyha jó néhány év el is telt
-
 a legutóbbi találkozásunk óta,
 és sokat tanultunk, szokták mondani
-
 ezt divatosan ilyen műsorok végén,
 vagy beszélgetések végén, de ezt
-
 most nem a divatból mondom őszintén,
 és ráadásul sok nézőnk kérte,
-
 hogy legyen ez sokkal hosszabb,
 mint általában egy óra. Hát ez most,
-
 hogy hosszabb, abban biztos vagyok.
-- Még nem is néztem az órát.
 
-- Jókora időt beszélgettünk,
+**BP:** Még nem is néztem az órát.
+
+**F:** Jókora időt beszélgettünk,
 de nagyon jó volt és tanultunk belőle.
 
-- Örültem én is.
-- Ma este Buda Péter
+**BP:** Örültem én is.
 
+**F:** Ma este Buda Péter
 biztonságpolitikai és nemzetbiztonsági
 elemzővel áttekintettük,
-
 hogy hol tart a világ 2021 közepén.
-Most tíz másodperces
-
-szót kap támogatónk,
-de azzal nem ér véget a műsor,
-
-mert tíz másodperc múlva jelentkezik a
-Friderikusz Podcast zenei melléklete.
-
-- Zenei sorozatba kezdünk,
-a Friderikusz Podcast házi színpada
-
-vagy házi tetőterasza jelentkezik,
-amelynek epizódjai nem minden
-
-esetben zárják majd az adást,
-de viszonylag rendszeresen tervezünk
-
-ilyet, ami aztán külön egységként is
-mindig felkerül majd felületeinkre.
-
-Fliegauf Bence filmrendezőé az
-ötlet és őt, valamint filmes
-
-kollégáit dicséri a kivitelezés.
-Műsorzáró zenei sorozatunkban
-
-kivételes képességű hazai előadóknak,
-szólistáknak szeretnénk lehetőséget és
-
-teret adni, hogy stúdiónk felett,
-Budapest belvárosának tetején
-
-fejezzék ki magukat olyan formában,
-amilyenben akarják.
-
-Így tehát nincs és nem is lesz
-zenekar, nem lesz koncert,
-
-csak rendkívül tehetséges szólisták.
-Némelyikükkel persze már
-
-találkozhattunk különféle színpadokon,
-koncerteken, stadionokban zenéltek,
-
-másokat most együtt fogunk majd
-felfedezni. Közös lesz bennük,
-
-hogy szándékuk szerint művészetük
-legjavát tárják elénk,
-
-adásonként két számot fog eljátszani
-hangszerén egy-egy előadó,
-
-a két szám között pedig rövid interjú
-keretében bemutatom az adott művészt.
-
-Akit az imént láttunk és hallottunk
-a stúdiónk feletti tetőn játszani,
-
-Eredics Salamon furulyás,
-bár ez sem igaz, hogy furulyás,
-
-mert hány hangszeren is játszol?
-
-- Hát mondjuk három hangszer az,
-amit vállalok, hogy játszom rajta.
-
-- Furulya?
-- Furulya, harmonika és bassprint
-
-tambura, az most itt nem lesz,
-de az is van egyébként.
-
-- Az mi egyébként, hogyha a
-hétköznapi nyelvre lefordítjuk?
-
-- Hát, ez a tambura ez
-egy pengetős hangszer,
-
-és akkor van egy egész tambura család,
-és akkor ebből én mondjuk úgy a
-
-középső vagyok, mint egy brácsa,
-egy vonós zenekarban.
-
-- És miért éppen azt választottad?
-Ahoz volt affinitásod,
-
-vagy az jutott rád?
-- Az hiányzott a zenekarból.
-
-- Gondoltam,
-hogy valami ilyesmi lehetett.
-
-Ugye zenész családban születtél,
-31 éves vagy, de már 6 éves
-
-korodban elkezdtél furulyázni,
-és hogy előtanulmányomból tudom,
-
-nyolc évesen az Országos zeneiskolai
-furulyaversenyen különdíjat,
-
-majd 11-14 éves korodban
-már első helyezést értél el.
-
-Ezek szerint tehát a furulya
-azért a fő hangszer, vagy az volt
-
-a kezdeti lökést megadó hangszer?
-- Igen, ezt lehet mondani. Mondjuk
-
-aztán ez mindig változik már később,
-hogy éppen melyiken van a hangsúly,
-
-de azért a furulya az fő hangszer.
-- Inkább te szólista vagy,
-
-vagy jellemzőbb,
-hogy a három fiútestvéreddel,
-
-meg Dénes Ábel bőgőssel,
-meg talán az unokatestvéreddel együtt
-
-alkotjátok a Söndörgő népzenei
-formációt, és annak vagy a tagja.
-
-Melyik a jellemzőbb?
-A zenekari vagy a szólista formáció?
-
-- Hát az a jó,
-hogy a kettő nem zárja ki egymást.
-
-Tehát megadjuk egymásnak a teret
-arra is, hogy szólózni is lehet.
-
-- A négy eredeti fiú összesen
-hány hangszeren játszik?
-
-Összeszámoltátok-e ezt valaha?
-- Hát ez jó kérdés.
-
-Ezt nem tudom pontosan.
-Még most nem is mondtam el mindent,
-
-mert én is játszom még
-hangszeren a zenekarban.
-
-- Ja, hogy még szerénykedtél is.
-- És akkor szóval mindenki több
-
-hangszeren játszik, ez a lényeg.
-- Segítek. Én az újságcikkben
-
-azt olvastam, amit olvastam,
-hogy tizenhét hangszeren játszotok.
-
-- Igen, abban talán a bőgő
-is benne van, az Ábel.
-
-- Akkor azt ha levonjuk akkor is
-maradt 16. Az is szép szám, tehát négy
-
-hangszer egy fiúra azért az elég jó.
-Az teljesen természetes-e,
-
-kérdezem, hogyha zenész
-családba születik az ember,
-
-mint ahogy ugye a ti édesapátok,
-vagy a te édesapád,
-
-Eredics Kálmán és nagybátyád,
-Eredics Gábor a Vujicsics
-
-együttesben játszott,
-illetve játszik mind a mai napig,
-
-hogy akkor a gyerekek is
-
-szükségszerűen zenészek lesznek,
-tetszik vagy sem,
-
-tehát nincs is más választásuk?
-- Hát nem biztos, hogy ez így van,
-
-meg ismerek olyat is,
-ahol ez nem így történt.
-
-De nekünk nagyon nagy szerencsénk
-volt, mert apuék mindig ott próbáltak
-
-a mi házunkban, és akkor emiatt,
-tehát mi folyamatosan hallhattuk a
-
-zenét közelről, meg a hangszereket is.
-Mondjuk azt nem volt szabad azért
-
-az igazán komolyakat megnézni.
-- Nem? Azt csak távolról lehetett
-
-tisztes távolságból rájuk tekinteni?
-De akkor hogy tanultatok
-
-meg rajtuk játszani?
-Előbb-utóbb csak odaengedtek,
-
-amikor már nagyobbak lettetek.
-- Hát azért volt olyan amikor
-
-nem látták, tehát azért meg
-lehetett azt ügyesen oldani.
-
-Aztán persze beírattak minket
-zeneiskolába, meg mindenféle,
-
-és hát érdekelt minket a dolog,
-ez így alakult.
-
-- Na most ugye, miután te vagy a
-legkisebb a fiútestvérek között,
-
-volt egyáltalán más választásod,
-
-mint megtanulni ezen a néhány
-hangszeren? Tehát mondjuk,
-
-ha te antitalentum lettél volna,
-vagy abszolút nem érdekel a zene,
-
-nem érdekel, akkor is el
-kellett volna kezdened, nem?
-
-Hát összehoztatok egy formációt,
-oda annyi emberre van szükség,
-
-mint ahányra szükség van.
-- Hát egyébként nem volt
-
-nyomás ezen a téren,
-tehát a szüleink felől abszolút nem,
-
-sőt, de hát egyszerűen igen,
-én például benne akartam lenni,
-
-mert hát mindig eltűntek a testvéreim,
-elmentek koncertezni,
-
-és akkor én meg ott maradok.
-- Mint legkisebb
-
-mindig otthon hagytak.
-- Igen, amikor még nem szállhattam be.
-
-És hát én is akartam menni.
-És akkor először a házunk
-
-előtti téren kezdtem el a kisebbik
-bátyámmal együtt játszani,
-
-és akkor megtanultuk a számokat.
-- Mi az, hogy a téren?
-
-Mit csináltatok a téren?
-Kalapoztatok közben?
-
-- Hát pénzt kerestünk.
-- Ja, azt gondoltam.
-
-Pénzt kerestetek fagyira.
-- Igen, igen.
-
-- A ti zenekarotok vagy
-formációtok neve Söndörgő.
-
-Miből ered ez a Söndörgő?
-Egyáltalán mit jelent?
-
-Azt, amit elsőre az ember mögé gondol?
-Csak nem azt, vagy igen? - Nem.
-
-Ez semmit nem jelent az a helyzet.
-Ez egy, hát egy elég szerencsétlen
-
-névválasztás, de hát amikor már
-nagyon benne voltunk, akkor már nem
-
-volt célszerű megváltoztatni.
-De hát aztán persze mondtunk olyat is,
-
-hogy akkor legyen az a magyarázat,
-hogy az idősek körül úgy söndörögni,
-
-az olyan jól hangzik,
-hogy biztos ezért adtuk, de nem.
-
-- Például külföldön ugyanígy ejtik,
-hogy következik a Söndörgő együttes?
-
-- Hát ezt a legkevesebbszer hallottuk
-így, hogy következik a Söndörgő.
-
-Hát most nem fogom utánozni
-a különféle megfejtéseket,
-
-de nem szokták tudni kiejteni.
-- Vannak egyébként nálatok
-
-ilyen koncerteken túlmutató
-nagy családi örömzenélések?
-
-Hiszen mindenki játszik egy csomó
-hangszeren, tehát el tudom képzelni,
-
-hogy karácsony vagy nemcsak ünnepi
-alkalmakkor azért úgy összeül a család
-
-és családi örömzenélésben tör ki.
-- Igen, sok ilyen volt,
-
-és érdekes módon az ortodox
-újév lett egy olyan alkalom,
-
-amikor nagyon sokan jöttek
-mindig hozzánk, és akkor hát
-
-mi szerb újévnek neveztük ezt,
-és akkor ugye az máskor van,
-
-tehát az január 13-án van.
-- De ti nem vagytok szerbek, ugye?
-
-- Hát van a családban egy ilyen ág,
-
-de nem annyira erős ez,
-de azért ott van, igen.
-
-Szóval ezeken az alkalmakon igen,
-ott összegyűlt rengeteg barát,
-
-és akkor ott ment a kólózás a házban.
-- Aki ilyen virtuóz módon kezeli
-
-a hangszert vagy a hangszereit,
-az hetente mennyit gyakorol?
-
-- Hát én régen gyakoroltam nagyon
-sokat, amikor kicsi voltam.
-
-És az a jó,
-hogy olyan hangszert választottam,
-
-például furulya az egy nagyon jó
-ilyen szempontból, mert hát azt
-
-nem nagyon lehet elfelejteni.
-Valahogy erre teljesen rákattantam,
-
-és ez foglalkoztatott,
-és akkor ez szerencsére most már
-
-annyit nem kell a furulyát gyakorolni.
-De hát például,
-
-hogyha van valami nagy esemény,
-egy nagyobb koncert, akkor persze,
-
-akkor előjön. Meg a harmonika
-az kicsit más ilyen szempontból.
-
-- Ja, mert még a tangóharmonika
-is a sajátod, hát persze,
-
-az most már a negyedik,
-ezek szerint, hangszer. Mutasd már,
-
-ami előtted van, mert ennek most
-szerepe lesz ugye a második számban,
-
-amit tehát a beszélgetés után
-látnak majd a nézők. Ez mi?
-
-- Hát ez egy hulusi,
-vagy hulusi, ez egy tök duda.
-
-És ez kínai hangszer.
-Hát ez egy nagyon komoly darab,
-
-ez körülbelül kétezer forint volt.
-- Itthon lehet kapni,
-
-vagy ezért el kellett menni Kínába?
-- Hát, Kínában, de először kaptam
-
-egyet a kisebbik bátyám feleségétől,
-mert Kínában járt, és vett egy,
-
-gondolom egy olyan helyen, ahol,
-mint ahol nálunk a faceruzákat
-
-szokták adni, valami ilyesmi.
-És hát kiderült,
-
-hogy lehet rajta játszani.
-- Milyen hangja van? Mutasd már meg!
-
-Fújd már meg légy szíves!
-Már fogjuk hallani mindjárt.
-
-Inkább duda, inkább duda,
-mint furulya.
-
-Bár furulyának hittem, csak a végén
-ilyen felfuvalkodott furulyának.
-
-- Igen.
-- Még annyit végezetül mindjárt
-
-visszaengedlek a tetőre, hogy amit
-a beszélgetés előtt hallottunk
-
-szimplán a furulyával, az mi volt,
-és amit a beszélgetés után már
-
-harmonikával és ezzel a bizonyos kínai
-dudával fogsz produkálni, az mi lesz?
-
-- Hát a furulyás, az egy tánczene,
-és ilyen kis motívumokból építkezik,
-
-és igazából ezt több órásra
-is lehetne nyújtani egy ilyet,
-
-de itt most csak röviden játszottam.
-
-- Ami most következik?
-- Ami most következik, az egy szabad
-
-improvizáció lesz ezzel a hangszerrel.
-
-És talán egy kicsit föl lehet
-fedezni olyan arabos zenét benne, mert
-
-negyed hangok talán lesznek benne.
-És a harmonikával pedig azt hiszem,
-
-hogy Makedón zenéhez lesz legközelebb,
-de az is improvizáció. Reméljük.
-
-- Nagyon szépen köszönöm.
-Az illusztrációt is,
-
-meg a beszélgetést is,
-és akkor Eredics Salamon
-
-örömzenélésével zárjuk a mai műsort.
-Jövő csütörtökön újra itt leszünk.
-
-
